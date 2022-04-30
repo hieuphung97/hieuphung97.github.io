@@ -39,7 +39,7 @@ defaults:
       path: ""
       type: posts
     values:
-      tags: Other
+      tags: Misc
 
 # The github repo that is to be used for looking up comments
 comments_repo: hieuphung97/hieuphung97.github.io
