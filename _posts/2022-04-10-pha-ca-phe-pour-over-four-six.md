@@ -1,6 +1,10 @@
-# Pha cà phê với phương pháp Pour Over cùng công thức 4:6
+---
+layout: post
+title: Pha cà phê với phương pháp Pour Over cùng công thức 4:6
+tags: Caffee
+---
 
-> TL;DR: Hướng dẫn pha cà phê bằng công thức 4:6, được trình bày tại [**World Brewers Cup 2016 Champion**](https://www.youtube.com/watch?v=yw849fABP54) bởi quán quân [*Tetsu Kasuya*](https://www.instagram.com/tetsukasuya/).
+> TL;DR: Hướng dẫn pha cà phê bằng công thức 4:6, được trình bày tại [*World Brewers Cup 2016 Champion*](https://www.youtube.com/watch?v=yw849fABP54) bởi quán quân [*Tetsu Kasuya*](https://www.instagram.com/tetsukasuya/).
 
 Có lẽ ai trong chúng ta cũng đã ít nhất một lần được nếm thử hương vị của cà phê, có thể từ những gói cà phê hòa tan, từ những tách cà phê pha máy ngoài quán, hay chí ít là từ những viên kẹo vị cà phê.
 Kể cả có chưa được nếm thì chắc cũng không còn gì xa lạ với tên gọi của loại thức uống phổ biến này.
@@ -159,6 +163,4 @@ Ngược lại, nếu bạn muốn tách cà phê chua hơn, một con số tham
 Nếu bạn thích uống đậm, hãy chia 60% này thành bốn (năm hoặc nhiều hơn) lần rót bằng nhau.
 Ngược lại, có thể điều chỉnh cho cà phê nhạt hơn bằng cách giảm số lần rót; ví dụ, rót toàn bộ 60% nước còn lại trong một lần rót hoặc chia thành hai lần rót (45 gram) bằng nhau.
 
-Vậy là chỉ với vài bước cơ bản, cùng khoảng 5-10 phút pha chế, ta đã có ngay cho mình một tách cà phê độc bản mang trong đó hương vị riêng mà ta mong muốn.
-
-
+Vậy là chỉ với vài bước đơn giản, cùng khoảng 5-10 phút pha chế, ta đã có ngay cho mình một tách cà phê mang hương vị độc bản.
