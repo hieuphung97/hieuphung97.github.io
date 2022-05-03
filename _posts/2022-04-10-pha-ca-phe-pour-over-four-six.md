@@ -23,7 +23,7 @@ Ngoài Pour Over, ta còn rất nhiều những cách pha chế khác như cà p
 ## Chuẩn bị
 - **Cà phê:** Muốn pha cà phê mà thiếu mất cái này thì thôi cất đồ cất đạc đi mà làm việc khác đi nhé 🤣 .
 Thuận tiện nhất, ta có thể mua cà phê xay sẵn dưới dạng bột. *(Lưu ý: Cần chọn đúng loại bột, bột được sử dụng để pha Pour Over thường có kích thước khá thô so với bột được sử dụng trong các cách pha chế khác.)* Cách thứ hai có hơi tốn công hơn một chút đó là mua cà phê hạt đã rang về tự xay. Sử dụng cà phê xay sẵn hay cà phê hạt đều có những ưu và nhược điểm riêng.
-    <center><img src="/img/coffee/arabica_coffee_bean.jpg" alt="Hạt cà phê Arabica" title="Hạt cà phê Arabica" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/arabica_coffee_bean.jpg" alt="Hạt cà phê Arabica" title="Hạt cà phê Arabica" style="max-width: 95%; height: auto;"/></center>
     <details>
     <summary><i>Nhấn để mở rộng</i></summary>
 
@@ -36,20 +36,20 @@ Thuận tiện nhất, ta có thể mua cà phê xay sẵn dưới dạng bột.
     </details>
 
 - **Cối xay:** Ta sẽ cần đến cối xay cà phê khi sử dụng cà phê nguyên hạt. Có rất nhiều loại cối xay hiện có trên thị trường, rẻ có, đắt có, cực đắt cũng có luôn. Có thể chắc chắn một điều là cối xay càng đắt thì thường sẽ đi đôi với chất lượng. Nhưng cá nhân mình khuyên các bạn mới tham gia "bộ môn" này nên bắt đầu với những loại có giá thành phải chăng; để lỡ có đang chơi mà thấy chán thì còn đỡ phí 😄 .
-    <center><img src="/img/coffee/coffee_grinder.jpg" alt="Cối xay cà phê - coffee grinder" title="Cối xay cà phê" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/coffee_grinder.jpg" alt="Cối xay cà phê - coffee grinder" title="Cối xay cà phê" style="max-width: 95%; height: auto;"/></center>
     <details>
         <summary markdown="span"><i>Nhấn để mở rộng</i></summary>
 
         Các bạn có thể dạo một vòng các trang thương mại điện tử là có thể kiếm ngay cho mình một chiếc cối xay ứng ý. Với những ai có mong muốn mua hàng cao cấp, (tại thời điểm viết bài Blog này) có hai thương hiệu lớn mà các bạn có thể tham khảo là TIMEMORE và Hario. Chất lượng thì miễn bàn, nhưng đắt thì xắt ra miếng.
-        Như hình bên dưới là chiếc cối xay xịn xò mà mình có mượn được của anh Sếp, cầm rất đầm tay và khi quay thì cực kỳ đã, êm ái nhẹ nhàng, mà tốc độ ra thành phẩm thì nhanh phải gấp ba gấp bốn lần loại mình đang dùng; đúng là tiền nào của nấy. <center><img src="/img/coffee/coffee_grinder_2.jpg" alt="Cối xay cà phê - coffee grinder" title="Cối xay cà phê" style="width: 500px;"/></center> <center><img src="/img/coffee/coffee_grinder_3.jpg" alt="Cối xay cà phê - coffee grinder" title="Cối xay cà phê" style="width: 500px;"/></center>
+        Như hình bên dưới là chiếc cối xay xịn xò mà mình có mượn được của anh Sếp, cầm rất đầm tay và khi quay thì cực kỳ đã, êm ái nhẹ nhàng, mà tốc độ ra thành phẩm thì nhanh phải gấp ba gấp bốn lần loại mình đang dùng; đúng là tiền nào của nấy. <center><img src="/img/coffee/coffee_grinder_2.jpg" alt="Cối xay cà phê - coffee grinder" title="Cối xay cà phê" style="max-width: 95%; height: auto;"/></center> <center><img src="/img/coffee/coffee_grinder_3.jpg" alt="Cối xay cà phê - coffee grinder" title="Cối xay cà phê" style="max-width: 95%; height: auto;"/></center>
     </details>
 
 - **Phễu V60:** Nhiều bạn hẳn đã rất quen thuộc với cái phin cà phê dùng để pha cà phê phin; về cơ bản, phễu V60 cũng có công dụng na ná như vậy.
 Như tên gọi, đây là một loại phễu, được thiết kế với thành phễu (khi được đặt thẳng đứng) tạo với mặt đất một góc 60°.
-    <center><img src="/img/coffee/v60_filter.jpg" alt="Phễu V60" title="Phễu V60" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/v60_filter.jpg" alt="Phễu V60" title="Phễu V60" style="max-width: 95%; height: auto;"/></center>
 
 - **Giấy lọc:** Đi cùng với chiếc phễu V60, ta sẽ cần cả những tờ giấy lọc chuyên dụng. Loại giấy này cũng có thể dễ dàng kiếm được trên các trang thương mại điện tử.
-    <center><img src="/img/coffee/filter_paper.jpg" alt="Giấy lọc" title="Giấy lọc" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/filter_paper.jpg" alt="Giấy lọc" title="Giấy lọc" style="max-width: 95%; height: auto;"/></center>
     <details>
         <summary markdown="span"><i>Nhấn để mở rộng</i></summary>
 
@@ -57,11 +57,11 @@ Như tên gọi, đây là một loại phễu, được thiết kế với thà
     </details>
 
 - **Bình đựng:** Cái này thì tùy các bạn lựa chọn, nhưng lưu ý là phải "tương thích" với phễu V60 đã mua. (Miễn sao đặt được phễu lên là được, các bạn mới bắt đầu không cần quá cầu kỳ cho món này. Có thể sử dụng cốc đựng nước hoặc bất cứ thứ gì có thể dùng để chứa dung dịch cà phê.)
-    <center><img src="/img/coffee/glass_pot.jpg" alt="Bình đựng cà phê" title="Bình đựng cà phê" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/glass_pot.jpg" alt="Bình đựng cà phê" title="Bình đựng cà phê" style="max-width: 95%; height: auto;"/></center>
 
 - **Ấm cổ ngỗng:** Công dụng thì chắc ai cũng biết để làm gì rồi, để rót nước nóng vào bột cà phê.
 Ấm cổ ngỗng, như tên gọi, có cái vòi dài và cong rất đặc trưng, giống hình dạng chiếc cổ của một con ngỗng.
-    <center><img src="/img/coffee/gooseneck_kettle.jpg" alt="Ấm cổ ngỗng" title="Ấm cổ ngỗng" style="width: 500px;"/></center><details>
+    <center><img src="/img/coffee/gooseneck_kettle.jpg" alt="Ấm cổ ngỗng" title="Ấm cổ ngỗng" style="max-width: 95%; height: auto;"/></center><details>
         <summary markdown="span"><i>Nhấn để mở rộng</i></summary>
 
         Theo mình được biết thì với thiết kế độc đáo này, người pha chế sẽ thấy thuận tiện hơn khi rót nước. Ngoài ra, nó còn có công dụng tạo áp suất khi đổ nước (cái này thì mình cần đọc thêm).
@@ -69,7 +69,7 @@ Như tên gọi, đây là một loại phễu, được thiết kế với thà
     </details>
 
 - **Cân tiểu ly (kèm bộ đếm thời gian):** Vì tỉ lệ giữa cà phê với nước cùng với thời gian pha chế sẽ ảnh hưởng trực tiếp đến hương vị của cà phê thành phẩm, mình khuyên các bạn nên đầu tư một chiếc ngay từ đầu.
-    <center><img src="/img/coffee/scale.jpg" alt="Cân" title="Cân" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/scale.jpg" alt="Cân" title="Cân" style="max-width: 95%; height: auto;"/></center>
     <details>
         <summary markdown="span"><i>Nhấn để mở rộng</i></summary>
 
@@ -116,27 +116,27 @@ Dựa trên tỷ lệ ở trên, số nước nóng cần dùng sẽ rơi vào k
 
 <ul>
     <li><b>Bước 0:</b> Cân và xay cà phê</li>
-    <center><img src="/img/coffee/pour_over/scale_coffee.jpg" alt="Cân cà phê" title="Cân cà phê" style="width: 500px;"/></center>
-    <center><img src="/img/coffee/pour_over/scale_coffee_2.jpg" alt="Cân cà phê" title="Cân cà phê" style="width: 500px;"/></center>
-    <center><img src="/img/coffee/pour_over/scale_coffee_3.jpg" alt="Cân cà phê" title="Cân cà phê" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/pour_over/scale_coffee.jpg" alt="Cân cà phê" title="Cân cà phê" style="max-width: 95%; height: auto;"/></center>
+    <center><img src="/img/coffee/pour_over/scale_coffee_2.jpg" alt="Cân cà phê" title="Cân cà phê" style="max-width: 95%; height: auto;"/></center>
+    <center><img src="/img/coffee/pour_over/scale_coffee_3.jpg" alt="Cân cà phê" title="Cân cà phê" style="max-width: 95%; height: auto;"/></center>
     Đặt cối xay ở chế độ xay thô. <i>(Gần như tất cả các loại cối xay cầm tay đều có khả năng điều chỉnh độ thô/mịn của hạt cà phê sau khi xay.)</i>
 </ul>
 </details>
 
 - **Bước 1:** Chuẩn bị dụng cụ
-    <center><img src="/img/coffee/pour_over/prepare.jpg" alt="Chuẩn bị dụng cụ" title="Chuẩn bị dụng cụ" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/pour_over/prepare.jpg" alt="Chuẩn bị dụng cụ" title="Chuẩn bị dụng cụ" style="max-width: 95%; height: auto;"/></center>
     Đặt bình chứa, phễu và giấy lọc ngay ngắn trên bàn cân.
 
 - **Bước 2:** Làm ướt giấy lọc
-    <center><img src="/img/coffee/pour_over/wet_the_paper.jpg" alt="Làm ướt giấy lọc" title="Làm ướt giấy lọc" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/pour_over/wet_the_paper.jpg" alt="Làm ướt giấy lọc" title="Làm ướt giấy lọc" style="max-width: 95%; height: auto;"/></center>
     Rót nước nóng từ từ lên bề mặt giấy để giấy ướt đều. Việc tráng giấy lọc, phễu và bình chứa bằng nước nóng giúp hạn chế sự ảnh hưởng của những tạp chất có trong giấy đến mùi vị của cà phê và đồng thời làm ấm bề mặt của phễu và bình chứa. Nhớ đổ phần nước sau khi tráng trong bình chứa.
 - **Bước 3:** Đổ bột cà phê vào phễu
-    <center><img src="/img/coffee/pour_over/pour_coffee_into_filter.jpg" alt="Đổ bột cà phê vào phễu" title="Đổ bột cà phê vào phễu" style="width: 500px;"/></center>
-    <center><img src="/img/coffee/pour_over/reset_the_scale.jpg" alt="Đặt lại cân tiểu ly" title="Đặt lại cân tiểu ly" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/pour_over/pour_coffee_into_filter.jpg" alt="Đổ bột cà phê vào phễu" title="Đổ bột cà phê vào phễu" style="max-width: 95%; height: auto;"/></center>
+    <center><img src="/img/coffee/pour_over/reset_the_scale.jpg" alt="Đặt lại cân tiểu ly" title="Đặt lại cân tiểu ly" style="max-width: 95%; height: auto;"/></center>
     Đặt bộ đo khối lượng của cân tiểu ly về vạch 0.
     Sau khi mọi công đoạn chuẩn bị đã hoàn tất, ta sẽ chuẩn bị bấm giờ và rót nước.
 - **Bước 4:** Bật bộ đếm thời gian và bắt đầu rót nước theo tỉ lệ như sau
-    <center><img src="/img/coffee/pour_over/pour_water_into_coffee.jpg" alt="Rót nước vào cà phê" title="Rót nước vào cà phê" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/pour_over/pour_water_into_coffee.jpg" alt="Rót nước vào cà phê" title="Rót nước vào cà phê" style="max-width: 95%; height: auto;"/></center>
 
     *(Khoảng thời gian giữa các lần rót là 45 giây, bất kể khối lượng cà phê sử dụng.)*
     - 40% lượng nước đầu (40% của 150 gram là 60 gram):
@@ -148,7 +148,7 @@ Dựa trên tỷ lệ ở trên, số nước nóng cần dùng sẽ rơi vào k
     Chia làm ba lần rót, mỗi lần 30 gram
 
 - **Bước 5:** Lắc/khuấy đều cà phê trước khi sử dụng
-    <center><img src="/img/coffee/pour_over/stir_coffee.jpg" alt="Lắc đều cà phê trong bình chứa" title="Lắc đều cà phê trong bình chứa" style="width: 500px;"/></center>
+    <center><img src="/img/coffee/pour_over/stir_coffee.jpg" alt="Lắc đều cà phê trong bình chứa" title="Lắc đều cà phê trong bình chứa" style="max-width: 95%; height: auto;"/></center>
 
 ---
 
