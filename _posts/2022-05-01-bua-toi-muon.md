@@ -5,7 +5,7 @@ background: /img/writing/default_background.jpg
 tags: Writing
 ---
 
-> Ngồi lơ ngơ, viết vu vơ ...
+> Ngồi ngẩn ngơ, viết vu vơ ...
 
 ---
 
