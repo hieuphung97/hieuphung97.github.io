@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bữa tối muộn
+background: /img/writing/default_background.jpg
 tags: Writing
 ---
 

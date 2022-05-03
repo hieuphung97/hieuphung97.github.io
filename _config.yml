@@ -1,45 +1,43 @@
-title: "Hello, World!"
-author: "Hieu Phung"
-description: "Just another Blog on the Internet." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: Hello, World!
+author: Hieu Phung
+# email: 
+description: >- # this means to ignore newlines until "baseurl:"
+  Just another Blog on the Internet.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+linkedin_username: hieuphung97
+github_username: hieuphung97
+facebook_username: hieuphung97
+twitter_username: hieuphung97
 
-# Email / Social media user names used by the minima theme:
-# All of these are optional and can be removed or commented out
-#email: "example@mail.com"
-twitter_username: "hieuphung97"
-github_username: "hieuphung97"
-linkedin_username: "hieuphung97"
-facebook_username: "hieuphung97"
-#flickr_username: username
-#instagram_username: "hieuphungtrong97"
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+# Build settings
+theme: jekyll-theme-clean-blog
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
-theme: "minima"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 
-rss: rss
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-    
 plugins:
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
 
-titles_from_headings:
-  strip_title: true
-  collections: true
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      tags: Misc
-
-# The github repo that is to be used for looking up comments
-comments_repo: hieuphung97/hieuphung97.github.io
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
