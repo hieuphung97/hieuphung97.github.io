@@ -11,7 +11,7 @@ facebook_username: hieuphung97
 twitter_username: hieuphung97
 
 # Build settings
-theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
 markdown: kramdown
 paginate: 5
