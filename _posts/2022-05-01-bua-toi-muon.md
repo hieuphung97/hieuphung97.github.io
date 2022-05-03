@@ -9,7 +9,7 @@ tags: Writing
 
 ---
 
-<center><img src="/img/writing/cam_lam_cam_hai_dong.jpg" alt="Bờ biển Cam Hải Đông, Cam Lâm" title="Bờ biển Cam Hải Đông, Cam Lâm" style="width: 640px;"/></center>
+<center><img src="/img/writing/cam_lam_cam_hai_dong.jpg" alt="Bờ biển Cam Hải Đông, Cam Lâm" title="Bờ biển Cam Hải Đông, Cam Lâm" style="max-width: 95%; height: auto;"/></center>
 <center><i>Gửi đến</i> 🍀 <i>chút màu xanh của biển cả</i></center>
 
 ---
