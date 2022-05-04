@@ -10,6 +10,9 @@ github_username: hieuphung97
 facebook_username: hieuphung97
 twitter_username: hieuphung97
 
+# Add your google-analytics ID here to activate google analytics
+google_analytics: G-M8VZLG3ZDY # out your google-analytics code
+
 # Build settings
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 
