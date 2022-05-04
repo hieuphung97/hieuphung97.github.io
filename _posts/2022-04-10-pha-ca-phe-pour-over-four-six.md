@@ -4,6 +4,7 @@ title: Pha cà phê với phương pháp Pour Over cùng công thức 4:6
 subtitle: Hướng dẫn pha cà phê bằng công thức 4:6, được trình bày tại World Brewers Cup 2016 Champion bởi quán quân Tetsu Kasuya.
 background: /img/coffee/default_background.jpg
 tags: Caffee
+comments: true
 ---
 
 > TL;DR: Hướng dẫn pha cà phê bằng công thức 4:6, được trình bày tại [*World Brewers Cup 2016 Champion*](https://www.youtube.com/watch?v=yw849fABP54) bởi quán quân [*Tetsu Kasuya*](https://www.instagram.com/tetsukasuya/).
