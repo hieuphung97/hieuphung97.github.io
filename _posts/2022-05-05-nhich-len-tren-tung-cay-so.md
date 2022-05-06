@@ -38,8 +38,9 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 ---
 
 ## Kết quả
-- Đau cổ chân và ống chân phải
-- Đau bụng trái
+- Đau cổ chân phải
+- Đau ống chân phải
+- Đau đùi trước trái
 <center><img src="/img/running/run_5_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ" title="Tóm tắt kết quả chạy bộ" style="max-width: 95%; height: auto;"/></center>
 <br/>
 <center><img src="/img/running/run_5_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
@@ -49,4 +50,4 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 ## Buổi chạy tiếp theo
 *Thứ 7, ngày mồng 7 tháng 5 năm 2022*
 
-🍀
+<div style="text-align: center">🍀</div>
