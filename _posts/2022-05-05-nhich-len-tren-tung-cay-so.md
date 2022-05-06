@@ -28,7 +28,7 @@ Như bình thường với bản tính lười biếng, mỗi khi bắt đầu m
 
 ---
 
-## Bài tập của 5/5/2022
+## Bài tập của ngày 05/05/2022
 - Khởi động
 - Chạy 3 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
 - Đi bộ 10 phút (đây là cá nhân mình muốn đi thêm, từ những buổi tập sau mình sẽ bổ sung thêm một bài giãn cơ)
@@ -51,3 +51,13 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 *Thứ 7, ngày mồng 7 tháng 5 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 06/05/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🐨</div>
