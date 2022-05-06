@@ -3,8 +3,8 @@ author: Hieu Phung
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Just another Blog on the Internet.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: hieuphung97
 github_username: hieuphung97
 facebook_username: hieuphung97
