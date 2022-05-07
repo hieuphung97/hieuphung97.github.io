@@ -41,7 +41,7 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 - Đau cổ chân phải
 - Đau ống chân phải
 - Đau đùi trước trái
-<center><img src="/img/running/run_5_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ" title="Tóm tắt kết quả chạy bộ" style="max-width: 95%; height: auto;"/></center>
+<center><img src="/img/running/run_5_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 05/05/2022" title="Tóm tắt kết quả chạy bộ ngày 05/05/2022" style="max-width: 95%; height: auto;"/></center>
 <br/>
 <center><img src="/img/running/run_5_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
 
@@ -61,3 +61,30 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 07/05/2022
+- Khởi động
+- Chạy 3 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Giãn cơ
+
+Thể trạng hôm nay của Hiếu không được tốt như trong buổi chạy đầu tiên do đôi bắp chân hơi nhức. Tuy nhiên, vẫn với cường độ như buổi tập trước đó, mọi thứ có như vẻ dễ dàng hơn.
+
+---
+
+## Kết quả
+- Hơi mỏi hai bắp chân
+
+Hôm nay nhờ bổ sung thêm vài bài giãn cơ sau khi tập, đôi chân mình đã cảm thấy thoải mái hơn nhiều. Hi vọng cơ thể sẽ sớm hồi phục, bài tập tiếp theo sẽ là một thử thách mới.
+
+<center><img src="/img/running/run_7_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 07/05/2022" title="Tóm tắt kết quả chạy bộ ngày 07/05/2022" style="max-width: 95%; height: auto;"/></center>
+<br/>
+<center><img src="/img/running/run_7_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 2, ngày mồng 9 tháng 5 năm 2022*
+
+<div style="text-align: center">🍀</div>
