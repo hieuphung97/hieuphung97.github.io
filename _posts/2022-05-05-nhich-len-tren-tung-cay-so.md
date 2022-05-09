@@ -88,3 +88,37 @@ Hôm nay nhờ bổ sung thêm vài bài giãn cơ sau khi tập, đôi chân m�
 *Thứ 2, ngày mồng 9 tháng 5 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 09/05/2022
+- Khởi động
+- Chạy 5 phút + nghỉ 3 phút, thực hiện lặp lại 6 lần liên tục
+- Giãn cơ
+
+Một thử thách mới, với tổng thời gian tập luyện hơn 1 tiếng.
+
+---
+
+## Kết quả
+- Hơi nhức cổ chân phải
+
+Lượt chạy 5 phút đầu tiên có hơi vất vả hơn so với mọi khi.<br/>
+"Mỏi chân quá, hơi thở ngắn quá, thôi bome rồi."<br/>
+Sau 3 phút "giải lao" đầu tiên, rồi đến 5 phút tiếp theo, mọi thứ bắt đầu dần dần đi vào quỹ đạo, nhịp thở cũng trở nên đều hơn, bắp chân cũng bớt mỏi. Sau 2km đầu tiên, cảm giác như có thể chạy mãi với cơ thể này vậy. Thật *nhẹ nhàng*. Cảm giác cứ như được sống lại những kỷ niệm hồi thơ bé, "... sáng sáng 5 giờ dậy, cùng ông bà nội tập thể dục theo chương trình TV."
+
+Sau hơn 40 phút vừa chạy vừa nghỉ, "Khát ghê, đang trong 3 phút đi bộ, làm ngụm nước cái đã rồi chạy nốt lượt cuối." Đôi chân bỗng trở nên tê mỏi, cứ như cảm thấy được có gì đó chảy trong mạch máu vậy. Có lẽ tự tiện uống nước giữa lúc cơ thể đang vận động với cường độ cao là một điều không nên. Cần nghiên cứu thêm về chủ đề này.
+
+Buổi chạy hôm nay thật dài, dài hơn hẳn mọi khi, nhưng lại được nghỉ mỗi lần đến những 3 phút, thành ra lại thành dễ thở nhất trong ba buổi chạy vừa rồi.
+
+
+<center><img src="/img/running/run_9_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 09/05/2022" title="Tóm tắt kết quả chạy bộ ngày 09/05/2022" style="max-width: 95%; height: auto;"/></center>
+<br/>
+<center><img src="/img/running/run_9_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 4, ngày 11 tháng 5 năm 2022*
+
+<div style="text-align: center">🐨</div>
