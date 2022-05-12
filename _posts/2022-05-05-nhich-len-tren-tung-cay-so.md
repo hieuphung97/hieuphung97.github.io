@@ -122,3 +122,37 @@ Buổi chạy hôm nay thật dài, dài hơn hẳn mọi khi, nhưng lại đư
 *Thứ 4, ngày 11 tháng 5 năm 2022*
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 11/05/2022
+- Khởi động
+- Chạy 4 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Giãn cơ
+
+Chỉ tăng có 1 phút cho mỗi hiệp so với buổi tập đầu tiên thôi, chiến nào!
+
+---
+
+## Kết quả
+- Mỏi bắp chân trái
+
+Lâu lâu mới có dịp sắp xếp được thời gian chạy vào sáng sớm, có lẽ hôm nay sẽ là một buổi tập vui vẻ với một cơ thể tràn đầy năng lượng. Ấy đấy là nếu cái "ống dẫn khí" của ngày hôm nay không có vấn đề gì. Chạy xong hiệp đầu tiên, khó thở, chỉ muốn ngất. Dịch tiết ra ở họng tuy không nhiều, nhưng lại cản trở đáng kể quá trình hô hấp của runner. Lê lết được hơn 2km, tình hình cũng không có vẻ khả quan hơn là mấy, vẫn thở khó nhọc, vẫn thiếu Oxi, mà bài tập lại chỉ cho phép được nghỉ có 1 phút để hồi sức, thực sự rất căng thẳng. May mắn thay vào những hiệp cuối, cơ thể đã bắt đầu biết nghe lời, hơi thở bắt đầu sâu hơn, không còn bị hụt hơi nữa.
+
+Buổi chạy của ngày hôm nay phải nói là muốn *tắt thở*, nhưng Hiếu đây không thể nào lại *tắt điện* được. Muốn chinh phục được thử thách, thì công việc phải được tiến hành một cách có kỷ luật!
+
+
+<center><img src="/img/running/run_11_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/05/2022" title="Tóm tắt kết quả chạy bộ ngày 11/05/2022" style="max-width: 95%; height: auto;"/></center>
+<br/>
+<center><img src="/img/running/run_11_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 6, ngày 13 tháng 5 năm 2022*
+
+Vẫn với độ khó của bài tập ngày hôm nay, chắc chắn mình sẽ phải làm tốt hơn trong hôm tới!
+
+<div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
