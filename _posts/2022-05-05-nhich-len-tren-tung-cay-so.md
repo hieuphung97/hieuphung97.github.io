@@ -156,3 +156,24 @@ Vẫn với độ khó của bài tập ngày hôm nay, chắc chắn mình sẽ
 <div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
+
+## Bài tập của ngày 13/05/2022
+- Khởi động
+- Chạy 4 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+- Đau hai bắp chân
+
+Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay được hoàn thành một cách tương đối nhẹ nhàng. Bài chạy tiếp theo sẽ rơi vào thứ hai tuần tới, với thời gian chạy cho từng hiệp được nhân đôi 😃.
+
+<center><img src="/img/running/run_13_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 13/05/2022" title="Tóm tắt kết quả chạy bộ ngày 13/05/2022" style="max-width: 95%; height: auto;"/></center>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 2, ngày 16 tháng 5 năm 2022*
+
+<div style="text-align: center">🐨</div>
