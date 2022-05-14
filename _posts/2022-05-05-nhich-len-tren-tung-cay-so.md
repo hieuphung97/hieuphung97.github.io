@@ -177,3 +177,13 @@ Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay đư�
 *Thứ 2, ngày 16 tháng 5 năm 2022*
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 14/05/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🍀</div>
