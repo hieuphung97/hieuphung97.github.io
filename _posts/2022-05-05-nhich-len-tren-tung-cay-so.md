@@ -30,7 +30,7 @@ Như bình thường với bản tính lười biếng, mỗi khi bắt đầu m
 
 ## Bài tập của ngày 05/05/2022
 - Khởi động
-- Chạy 3 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Chạy 3 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
 - Đi bộ 10 phút (đây là cá nhân mình muốn đi thêm, từ những buổi tập sau mình sẽ bổ sung thêm một bài giãn cơ)
 
 Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là một ngày *Fight! Fight! Fight!* hiếm gặp…
@@ -41,9 +41,13 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 - Đau cổ chân phải
 - Đau ống chân phải
 - Đau đùi trước trái
-<center><img src="/img/running/run_5_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 05/05/2022" title="Tóm tắt kết quả chạy bộ ngày 05/05/2022" style="max-width: 95%; height: auto;"/></center>
-<br/>
-<center><img src="/img/running/run_5_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_5_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 05/05/2022" title="Tóm tắt kết quả chạy bộ ngày 05/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_5_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
 
 ---
 
@@ -66,7 +70,7 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 
 ## Bài tập của ngày 07/05/2022
 - Khởi động
-- Chạy 3 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Chạy 3 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
 - Giãn cơ
 
 Thể trạng hôm nay của Hiếu không được tốt như trong buổi chạy đầu tiên do đôi bắp chân hơi nhức. Tuy nhiên, vẫn với cường độ như buổi tập trước đó, mọi thứ có như vẻ dễ dàng hơn.
@@ -78,9 +82,12 @@ Thể trạng hôm nay của Hiếu không được tốt như trong buổi ch�
 
 Hôm nay nhờ bổ sung thêm vài bài giãn cơ sau khi tập, đôi chân mình đã cảm thấy thoải mái hơn nhiều. Hi vọng cơ thể sẽ sớm hồi phục, bài tập tiếp theo sẽ là một thử thách mới.
 
-<center><img src="/img/running/run_7_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 07/05/2022" title="Tóm tắt kết quả chạy bộ ngày 07/05/2022" style="max-width: 95%; height: auto;"/></center>
-<br/>
-<center><img src="/img/running/run_7_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_7_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 07/05/2022" title="Tóm tắt kết quả chạy bộ ngày 07/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_7_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
 
 ---
 
@@ -93,7 +100,7 @@ Hôm nay nhờ bổ sung thêm vài bài giãn cơ sau khi tập, đôi chân m�
 
 ## Bài tập của ngày 09/05/2022
 - Khởi động
-- Chạy 5 phút + nghỉ 3 phút, thực hiện lặp lại 6 lần liên tục
+- Chạy 5 phút + đi bộ 3 phút, thực hiện lặp lại 6 lần liên tục
 - Giãn cơ
 
 Một thử thách mới, với tổng thời gian tập luyện hơn 1 tiếng.
@@ -109,12 +116,14 @@ Sau 3 phút "giải lao" đầu tiên, rồi đến 5 phút tiếp theo, mọi t
 
 Sau hơn 40 phút vừa chạy vừa nghỉ, "Khát ghê, đang trong 3 phút đi bộ, làm ngụm nước cái đã rồi chạy nốt lượt cuối." Đôi chân bỗng trở nên tê mỏi, cứ như cảm thấy được có gì đó chảy trong mạch máu vậy. Có lẽ tự tiện uống nước giữa lúc cơ thể đang vận động với cường độ cao là một điều không nên. Cần nghiên cứu thêm về chủ đề này.
 
-Buổi chạy hôm nay thật dài, dài hơn hẳn mọi khi, nhưng lại được nghỉ mỗi lần đến những 3 phút, thành ra lại thành dễ thở nhất trong ba buổi chạy vừa rồi.
+Buổi chạy hôm nay thật dài, dài hơn hẳn mọi khi, nhưng lại được giải lao mỗi lần đến những 3 phút, thành ra lại thành dễ thở nhất trong ba buổi chạy vừa rồi.
 
-
-<center><img src="/img/running/run_9_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 09/05/2022" title="Tóm tắt kết quả chạy bộ ngày 09/05/2022" style="max-width: 95%; height: auto;"/></center>
-<br/>
-<center><img src="/img/running/run_9_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_9_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 09/05/2022" title="Tóm tắt kết quả chạy bộ ngày 09/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_9_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
 
 ---
 
@@ -127,7 +136,7 @@ Buổi chạy hôm nay thật dài, dài hơn hẳn mọi khi, nhưng lại đư
 
 ## Bài tập của ngày 11/05/2022
 - Khởi động
-- Chạy 4 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Chạy 4 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
 - Giãn cơ
 
 Chỉ tăng có 1 phút cho mỗi hiệp so với buổi tập đầu tiên thôi, chiến nào!
@@ -141,10 +150,12 @@ Lâu lâu mới có dịp sắp xếp được thời gian chạy vào sáng s�
 
 Buổi chạy của ngày hôm nay phải nói là muốn *tắt thở*, nhưng Hiếu đây không thể nào lại *tắt điện* được. Muốn chinh phục được thử thách, thì công việc phải được tiến hành một cách có kỷ luật!
 
-
-<center><img src="/img/running/run_11_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/05/2022" title="Tóm tắt kết quả chạy bộ ngày 11/05/2022" style="max-width: 95%; height: auto;"/></center>
-<br/>
-<center><img src="/img/running/run_11_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_11_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/05/2022" title="Tóm tắt kết quả chạy bộ ngày 11/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_11_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
 
 ---
 
@@ -159,7 +170,7 @@ Vẫn với độ khó của bài tập ngày hôm nay, chắc chắn mình sẽ
 
 ## Bài tập của ngày 13/05/2022
 - Khởi động
-- Chạy 4 phút + nghỉ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Chạy 4 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
 - Giãn cơ
 
 ---
@@ -169,7 +180,10 @@ Vẫn với độ khó của bài tập ngày hôm nay, chắc chắn mình sẽ
 
 Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay được hoàn thành một cách tương đối nhẹ nhàng. Bài chạy tiếp theo sẽ rơi vào thứ hai tuần tới, với thời gian chạy cho từng hiệp được nhân đôi 😃.
 
-<center><img src="/img/running/run_13_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 13/05/2022" title="Tóm tắt kết quả chạy bộ ngày 13/05/2022" style="max-width: 95%; height: auto;"/></center>
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_13_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 13/05/2022" title="Tóm tắt kết quả chạy bộ ngày 13/05/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
 
 ---
 
@@ -187,3 +201,36 @@ Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay đư�
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 16/05/2022
+- Khởi động
+- Chạy 8 phút + đi bộ 3 phút, thực hiện lặp lại 5 lần liên tục
+- Giãn cơ
+
+<!-- Hôm nay sẽ là một bài luyện tập đầy thử thách! -->
+
+---
+
+## Kết quả
+- Đau hai bắp chân
+- Đau vùng nối giữa bắp chân và đùi sau trái
+
+Mới hôm thứ tư tuần trước, Hiếu đã có cho mình một buổi chạy muốn *tắt thở*. Thì ngày hôm nay, tối thứ hai đầu tuần, Hiếu lại có thêm cho mình một buổi chạy muốn **QUÈ CHÂN**. Đau! Chưa bao giờ mình chạy trong một tình trạng thể chất như vậy trước đây. Cứ mỗi lần chuyển từ tư thế đi bộ sang tư thế chạy, chân mình lại phải tốn tầm 1--2 phút cho việc làm quen với những cơn đau. Những lúc như vậy, bản thân cứ như đang lê lết trên máy chạy, không thể nâng cao đùi trái. Đau ghê, thiết nghĩ, nếu không phải là đã có trước một kế hoạch luyện tập rõ ràng cho từng ngày, mình chắc chắn sẽ kết thúc sớm buổi tập, như mọi lần, hoặc sẽ là nghỉ tập buổi hôm nay luôn.
+
+Đau là một dấu hiệu không mấy tích cực trong các buổi chạy nói riêng hay trong các buổi tập của các bộ môn thể thao vận động cơ bắp nói chung. Mặc dù vậy, cơn đau hôm nay phần nào đã hướng sự tập trung của mình vào đôi chân, thay vì vào con tim và lá phổi, giúp mình phần nào giảm bớt căng thẳng khi chạy liền một quãng đường dài, dài hơn so với các buổi chạy trước. Nhìn chung, ngoài đôi chân đau nhức, buổi chạy ngày hôm nay có thể coi là một buổi chạy đơn giản nhẹ nhàng.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_16_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 16/05/2022" title="Tóm tắt kết quả chạy bộ ngày 16/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_16_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 4, ngày 18 tháng 5 năm 2022*
+
+<div style="text-align: center">🐨</div>
