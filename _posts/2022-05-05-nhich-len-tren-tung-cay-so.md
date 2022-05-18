@@ -24,7 +24,7 @@ Sau hai tuần dài gần như không vận động, hôm nay Hiếu chạy bộ
 - Mục tiêu: Chinh phục quãng đường 10km.
 - Chế độ luyện tập: Do nhiếp ảnh gia chuyên nghiệp kiêm vận động viên Hoàng Lê lên lịch. (Để đạt được mục tiêu 10km, nghiêm túc mà nói, không thể cứ chạy một cách thiếu khoa học như trước được.)
  
-Như bình thường với bản tính lười biếng, mỗi khi bắt đầu một thứ gì đó mới, mình sẽ chọn một buổi sáng thứ 2 nào đấy để làm cột mốc. Dưng cơ mà có phải là thứ 2 tuần sau hay không thì có lẽ chỉ có Phật Tổ mới biết được 😆. Lần này sẽ là một ngoại lệ.
+Như bình thường với bản tính lười biếng, mỗi khi bắt đầu một thứ gì đó mới, mình sẽ chọn một buổi sáng thứ 2 nào đấy để làm cột mốc. Dưng cơ mà có phải là thứ 2 tuần sau hay không thì có lẽ chỉ có Phật Tổ mới biết được 😆 . Lần này sẽ là một ngoại lệ.
 
 ---
 
@@ -178,7 +178,7 @@ Vẫn với độ khó của bài tập ngày hôm nay, chắc chắn mình sẽ
 ## Kết quả
 - Đau hai bắp chân
 
-Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay được hoàn thành một cách tương đối nhẹ nhàng. Bài chạy tiếp theo sẽ rơi vào thứ hai tuần tới, với thời gian chạy cho từng hiệp được nhân đôi 😃.
+Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay được hoàn thành một cách tương đối nhẹ nhàng. Bài chạy tiếp theo sẽ rơi vào thứ 2 tuần tới, với thời gian chạy cho từng hiệp được nhân đôi 😃 .
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -209,15 +209,13 @@ Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay đư�
 - Chạy 8 phút + đi bộ 3 phút, thực hiện lặp lại 5 lần liên tục
 - Giãn cơ
 
-<!-- Hôm nay sẽ là một bài luyện tập đầy thử thách! -->
-
 ---
 
 ## Kết quả
 - Đau hai bắp chân
 - Đau vùng nối giữa bắp chân và đùi sau trái
 
-Mới hôm thứ tư tuần trước, Hiếu đã có cho mình một buổi chạy muốn *tắt thở*. Thì ngày hôm nay, tối thứ hai đầu tuần, Hiếu lại có thêm cho mình một buổi chạy muốn **QUÈ CHÂN**. Đau! Chưa bao giờ mình chạy trong một tình trạng thể chất như vậy trước đây. Cứ mỗi lần chuyển từ tư thế đi bộ sang tư thế chạy, chân mình lại phải tốn tầm 1--2 phút cho việc làm quen với những cơn đau. Những lúc như vậy, bản thân cứ như đang lê lết trên máy chạy, không thể nâng cao đùi trái. Đau ghê, thiết nghĩ, nếu không phải là đã có trước một kế hoạch luyện tập rõ ràng cho từng ngày, mình chắc chắn sẽ kết thúc sớm buổi tập, như mọi lần, hoặc sẽ là nghỉ tập buổi hôm nay luôn.
+Mới hôm thứ 4 tuần trước, Hiếu đã có cho mình một buổi chạy muốn *tắt thở*. Thì ngày hôm nay, tối thứ 2 đầu tuần, Hiếu lại có thêm cho mình một buổi chạy muốn **QUÈ CHÂN**. Đau! Chưa bao giờ mình chạy trong một tình trạng thể chất như vậy trước đây. Cứ mỗi lần chuyển từ tư thế đi bộ sang tư thế chạy, chân mình lại phải tốn tầm 1--2 phút cho việc làm quen với những cơn đau. Những lúc như vậy, bản thân cứ như đang lê lết trên máy chạy, không thể nâng cao đùi trái. Đau ghê, thiết nghĩ, nếu không phải là đã có trước một kế hoạch luyện tập rõ ràng cho từng ngày, mình chắc chắn sẽ kết thúc sớm buổi tập, như mọi lần, hoặc sẽ là nghỉ tập buổi hôm nay luôn.
 
 Đau là một dấu hiệu không mấy tích cực trong các buổi chạy nói riêng hay trong các buổi tập của các bộ môn thể thao vận động cơ bắp nói chung. Mặc dù vậy, cơn đau hôm nay phần nào đã hướng sự tập trung của mình vào đôi chân, thay vì vào con tim và lá phổi, giúp mình phần nào giảm bớt căng thẳng khi chạy liền một quãng đường dài, dài hơn so với các buổi chạy trước. Nhìn chung, ngoài đôi chân đau nhức, buổi chạy ngày hôm nay có thể coi là một buổi chạy đơn giản nhẹ nhàng.
 
@@ -234,3 +232,37 @@ Mới hôm thứ tư tuần trước, Hiếu đã có cho mình một buổi ch�
 *Thứ 4, ngày 18 tháng 5 năm 2022*
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 18/05/2022
+- Khởi động
+- Chạy 4 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+- Đau vùng nối giữa bắp chân và đùi sau trái
+
+Ngày hôm nay, sau khi hứng chịu chấn thương từ buổi chạy vào hôm thứ 2 đầu tuần, cơ thể mình không thể đạt được trạng thái tốt nhất cho việc chạy bộ. Chân trái vẫn khá đau, dù đã bắt đầu có thể đi đứng bình thường trở lại. Để giảm tải cho chân trái, mình đã phải chủ động dồn lực nhiều hơn sang chân bên phải, cũng đỡ được đôi chút, ít nhất là đủ đề vượt qua được những lượt chạy đầu tiên khi mà cơ thể vẫn chưa quen được với cường độ vận động của buổi tập.
+
+Nhưng Hiếu hôm nay không chỉ bị phản đối bởi cái chân giò trái của hắn, mà còn cả bởi hai lá phổi nữa. Trùng hợp thay, cũng vào đúng ngày này, thứ 4 tuần trước, mình đã được trải nghiệm một buổi chạy muốn *tắt thở*. Có khi nào cứ vào mỗi thứ 4 hàng tuần thì phổi mình lại bị yếu không nhỉ 🤔 ? Mà thôi kệ, đợi đến tuần tới là biết liền.
+
+Buổi chạy hôm nay cũng tương đối mệt, nhưng nhìn vào các chỉ số về nhịp tim giảm dần theo từng ngày, có lẽ mọi thứ vẫn đang đi đúng hướng.
+
+Cố lên tôi ơi!
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_18_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 18/05/2022" title="Tóm tắt kết quả chạy bộ ngày 18/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_18_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 5, ngày 19 tháng 5 năm 2022*
+
+<div style="text-align: center">🍀</div>
