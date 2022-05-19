@@ -6,7 +6,7 @@ tags: Writing
 comments: true
 ---
 
-> Ngồi ngẩn ngơ, viết vu vơ ...
+> Ngồi ngẩn ngơ, viết vu vơ...
 
 ---
 
