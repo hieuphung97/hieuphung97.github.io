@@ -266,3 +266,35 @@ Cố lên tôi ơi!
 *Thứ 5, ngày 19 tháng 5 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 19/05/2022
+- Khởi động
+- Chạy 4 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Giãn cơ
+
+Chân vẫn còn hơi đau từ sau buổi chạy ngày hôm qua, còn lại thì tim phổi đều ổn cả.
+
+---
+
+## Kết quả
+- Đau vùng nối giữa bắp chân và đùi sau trái
+
+Thực tình thì cũng không muốn tiến hành luôn buổi tập vào ngày hôm nay theo như kế hoạch ban đầu khi mà chân cẳng vẫn chưa hoàn toàn bình phục, nhưng thấy đi lại có vẻ thoải mái hơn rồi nên vẫn thử nhắm mắt chạy vài ba lượt xem có chạy tiếp được không.
+
+May thay, sau khoảng 2--3 hiệp đầu, cơ thể đã không còn cảnh báo cơn đau đến cho Hiếu nữa. Mặc dù vậy, tư thế chạy của ngày hôm nay vẫn không thể được thoải mái như khi cơ thể lành lặn, sải bước khá ngắn, trọng tâm phải dồn sang chân phải và cần sự hỗ trợ nhiều hơn từ cơ bụng trái để có thể nhấc được cẳng chân đau lên.
+
+Sau buổi chạy ngày hôm nay, có lẽ sẽ cần một kế hoạch nghỉ ngơi dài hơn một chút cho cơ thể có thời gian bình phục trước khi quay trở lại tiếp tục với chế độ luyện tập hà khắc.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_19_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 19/05/2022" title="Tóm tắt kết quả chạy bộ ngày 19/05/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 2, ngày 23 tháng 5 năm 2022*
+
+<div style="text-align: center">🐨</div>
