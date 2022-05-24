@@ -298,3 +298,36 @@ Sau buổi chạy ngày hôm nay, có lẽ sẽ cần một kế hoạch nghỉ 
 *Thứ 2, ngày 23 tháng 5 năm 2022*
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 23/05/2022
+- Khởi động
+- Chạy 4 phút + đi bộ 1 phút, thực hiện lặp lại 8 lần liên tục
+- Giãn cơ
+
+Sau ba ngày nghỉ ngơi, xả hơi lấy sức, cuối cùng cái chân trái cũng chịu lành trở lại.
+Hôm nay được khai sáng thêm bài thở, thử áp dụng xem công hiệu đến đâu.
+
+---
+
+## Kết quả
+- Vết thương cũ bị đau trở lại (vùng nối giữa bắp chân và đùi sau trái)
+
+Có vẻ như chân cẳng vẫn chưa hoàn toàn bình phục; dẫu vậy, buổi chạy ngày hôm nay có thể coi là nhẹ nhàng nhất từ trước đến nay.
+Bài thở dường như khá công hiệu, cần luyện tập thêm để có thể hoàn toàn làm chủ được kỹ thuật mới này.
+
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_23_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/05/2022" title="Tóm tắt kết quả chạy bộ ngày 23/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 4, ngày 25 tháng 5 năm 2022*
+
+<div style="text-align: center">🍀</div>
