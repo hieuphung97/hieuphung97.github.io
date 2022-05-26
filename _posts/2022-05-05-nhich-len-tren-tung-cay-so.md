@@ -331,3 +331,43 @@ Bài thở dường như khá công hiệu, cần luyện tập thêm để có 
 *Thứ 4, ngày 25 tháng 5 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 25/05/2022
+- Khởi động
+- Chạy 12 phút + đi bộ 3 phút, thực hiện lặp lại 4 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+Ngoài việc sử dụng thành thục hơn kỹ thuật thở mới học được từ thứ 2 đầu tuần, hôm nay mình còn khám phá được thêm một điều nho nhỏ trong quá trình tập thở, việc hít vào quá sâu trong lúc chạy có thể dẫn đến cảm giác "khát oxy". Thực tế, cơ thể mình không hề bị thiếu oxy, chỉ là do tỉ lệ giữa oxy và cacbonic trong phổi bị mất cân bằng nên mới dẫn đến cảm giác đó. Bằng chứng là khi mình giảm lượng khí hít vào, kết hợp với đẩy ra nhiều khí hơn trong phổi mỗi lần thở, cảm giác này biến mất. Nghe có vẻ hơi điêu nhưng ít nhất là cơ thể mình thấy vậy; sẽ phải kiếm chứng lại trong những buổi tập tiếp theo.
+
+Khi thực hiện những bài chạy ngắn với cự ly 5km đổ lại, với mình, cảm giác "khát oxy" mới là thứ khiến mình muốn bỏ cuộc sớm chứ không phải từ những thớ cơ đau của chân hay bụng. Có lẽ, giải quyết được vấn đề này chính là chìa khóa để có thể chinh phục được quãng đường 10km sắp tới mà mình sẽ phải đối mặt.
+
+Tiến lên phía trước, với những kiến thức và phát hiện mới!
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_25_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/05/2022" title="Tóm tắt kết quả chạy bộ ngày 25/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Chủ nhật, ngày 29 tháng 5 năm 2022*
+
+<div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 26/05/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🍀</div>
