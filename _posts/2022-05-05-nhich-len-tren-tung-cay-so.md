@@ -371,3 +371,35 @@ Tiến lên phía trước, với những kiến thức và phát hiện mới!
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 29/05/2022
+- Khởi động
+- Chạy 6 phút + đi bộ 2 phút, thực hiện lặp lại 6 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+- Đau vùng nối giữa bắp chân và đùi sau trái
+
+Chắc hẳn ai cũng biết sử dụng đồ uống có cồn không đúng thời điểm và liều lượng có thể gây ảnh hưởng tiêu cực đến sức khỏe như thế nào. Dù rằng bản thân không hề khoái với thứ đồ uống này, nhưng cứ vào những dịp đặc biệt, thật khó để có thể từ chối những cốc bia chén rượu từ những người "bạn" nhậu.
+
+Là một runner mới, hôm nay là lần đầu tiên mình được trải nghiệm những tác động của rượu bia lên chính cơ thể mình trong quá trình luyện tập. Cảm giác ban đầu là sự uể oải, chỉ mới chạy được có 5 phút thôi mà tư thế vung chân cứ như chuẩn bị về đích đến nơi rồi ý. Sau sự uể oải của các bó cơ, tiếp đến là cảm giác khát nước. Khát v*i luôn chứ không chỉ còn là hơi hơi khát nữa, buộc bản thân phải bổ sung thêm nước cứ sau mỗi 6 phút chạy bộ. Có thể thấy uống rượu bia gây mất nước ghê gớm đến nhường nào.
+
+Bài học rút ra ở đây là tránh nạp cồn vào đêm ngay trước các bài chạy, cuộc đua; hay tốt nhất là nghỉ chơi luôn với thần cồn nếu có thể 😉 .
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_29_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 29/05/2022" title="Tóm tắt kết quả chạy bộ ngày 29/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_29_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 2, ngày 30 tháng 5 năm 2022*
+
+<div style="text-align: center">🐨</div>
