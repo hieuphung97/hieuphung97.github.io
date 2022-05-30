@@ -414,7 +414,7 @@ Bài học rút ra ở đây là tránh nạp cồn vào đêm ngay trước cá
 ---
 
 ## Kết quả
-Một buổi chạy dưỡng sinh vậy, nhẹ nhàng, dễ thở.
+Hôm nay là một buổi chạy dưỡng sinh nhẹ nhàng và dễ thở.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
