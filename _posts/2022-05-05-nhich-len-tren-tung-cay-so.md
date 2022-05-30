@@ -403,3 +403,29 @@ Bài học rút ra ở đây là tránh nạp cồn vào đêm ngay trước cá
 *Thứ 2, ngày 30 tháng 5 năm 2022*
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 30/05/2022
+- Khởi động
+- Chạy 6 phút + đi bộ 2 phút, thực hiện lặp lại 6 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+Một buổi chạy dưỡng sinh vậy, nhẹ nhàng, dễ thở.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_30_5_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/05/2022" title="Tóm tắt kết quả chạy bộ ngày 30/05/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_30_5_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 4, ngày 1 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
