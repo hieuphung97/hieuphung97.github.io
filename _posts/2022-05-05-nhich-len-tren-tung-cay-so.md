@@ -146,7 +146,7 @@ Chỉ tăng có 1 phút cho mỗi hiệp so với buổi tập đầu tiên thô
 ## Kết quả
 - Mỏi bắp chân trái
 
-Lâu lâu mới có dịp sắp xếp được thời gian chạy vào sáng sớm, có lẽ hôm nay sẽ là một buổi tập vui vẻ với một cơ thể tràn đầy năng lượng. Ấy đấy là nếu cái "ống dẫn khí" của ngày hôm nay không có vấn đề gì. Chạy xong hiệp đầu tiên, khó thở, chỉ muốn ngất. Dịch tiết ra ở họng tuy không nhiều, nhưng lại cản trở đáng kể quá trình hô hấp của runner. Lê lết được hơn 2km, tình hình cũng không có vẻ khả quan hơn là mấy, vẫn thở khó nhọc, vẫn thiếu Oxi, mà bài tập lại chỉ cho phép được nghỉ có 1 phút để hồi sức, thực sự rất căng thẳng. May mắn thay vào những hiệp cuối, cơ thể đã bắt đầu biết nghe lời, hơi thở bắt đầu sâu hơn, không còn bị hụt hơi nữa.
+Lâu lâu mới có dịp sắp xếp được thời gian chạy vào sáng sớm, có lẽ hôm nay sẽ là một buổi tập vui vẻ với một cơ thể tràn đầy năng lượng. Ấy đấy là nếu cái "ống dẫn khí" của ngày hôm nay không có vấn đề gì. Chạy xong hiệp đầu tiên, khó thở, chỉ muốn ngất. Dịch tiết ra ở họng tuy không nhiều, nhưng lại cản trở đáng kể quá trình hô hấp của runner. Lê lết được hơn 2km, tình hình cũng không có vẻ khả quan hơn là mấy, vẫn thở khó nhọc, vẫn thiếu oxy, mà bài tập lại chỉ cho phép được nghỉ có 1 phút để hồi sức, thực sự rất căng thẳng. May mắn thay vào những hiệp cuối, cơ thể đã bắt đầu biết nghe lời, hơi thở bắt đầu sâu hơn, không còn bị hụt hơi nữa.
 
 Buổi chạy của ngày hôm nay phải nói là muốn *tắt thở*, nhưng Hiếu đây không thể nào lại *tắt điện* được. Muốn chinh phục được thử thách, thì công việc phải được tiến hành một cách có kỷ luật!
 
@@ -429,3 +429,34 @@ Hôm nay là một buổi chạy dưỡng sinh nhẹ nhàng và dễ thở.
 *Thứ 4, ngày 1 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 01/06/2022
+- Khởi động
+- Chạy 15 phút + đi bộ 3 phút, thực hiện lặp lại 4 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+Bắt đầu làm chủ được hơi thở, Hiếu tự tìm cách đưa mình vào trạng thái "chạy tự động".
+
+"Chạy tự động" là cách nói của mình khi bản thân có thể chạy một cách thoải mái không biết mệt mỏi.
+Thông thường, trạng thái này thường xuất hiện vào những phút đầu tiên của buổi chạy, khi mà cơ thể còn tương đối khỏe và "nhẹ". Đôi khi, bằng cách đánh lạc hướng suy nghĩ, hướng sự tập trung vào một điều gì đó ngoài chạy bộ, mình cũng có thể tạm thời đưa cơ thể vào được trạng thái này trong giây lát. Nhưng để chủ động duy trì được trạng thái "chạy tự động" trong một thời gian dài là một điều mình chưa thể làm được, ít nhất là trước buổi chạy ngày hôm nay. Cá nhân mình để ý, sau khi chạy được một khoảng cách từ 2km cho đến 3km, kết hợp với việc giải thoát cơ thể khỏi tình trạng "khát oxy" bằng những nhịp thở đều, cảm giác cơ thể tự động chạy bắt đầu xuất hiện.
+
+Bằng việc đưa cơ thể vào trạng thái "chạy tự động", đầu óc sẽ không còn bị những suy nghĩ như "Mệt lắm rồi," "Sắp ngất đến nơi rồi," "Dừng lại,"... làm phiền nữa. Có thể chạy mãi, chắc là chỉ đến khi nào thấy chán quá thì nghỉ hoặc khi không còn cảm thấy đôi chân của mình đâu nữa thì mới dừng 🤣 .
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_1_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/06/2022" title="Tóm tắt kết quả chạy bộ ngày 01/06/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_1_6_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 7, ngày 4 tháng 6 năm 2022*
+
+<div style="text-align: center">🐨</div>
