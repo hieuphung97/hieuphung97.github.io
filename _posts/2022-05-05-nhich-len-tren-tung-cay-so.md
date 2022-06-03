@@ -459,3 +459,13 @@ Bằng việc đưa cơ thể vào trạng thái "chạy tự động", đầu �
 *Thứ 7, ngày 4 tháng 6 năm 2022*
 
 <div style="text-align: center">🐨</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 03/06/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🍀</div>
