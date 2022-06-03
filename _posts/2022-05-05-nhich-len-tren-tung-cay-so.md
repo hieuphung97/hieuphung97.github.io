@@ -64,7 +64,7 @@ Một buổi chiều thứ 5, ngày mồng 5 tháng 5, hôm nay quả đúng là
 - Nhảy dây 100 nhịp, thực hiện 5 lần
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -130,7 +130,7 @@ Buổi chạy hôm nay thật dài, dài hơn hẳn mọi khi, nhưng lại đư
 ## Buổi chạy tiếp theo
 *Thứ 4, ngày 11 tháng 5 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -190,7 +190,7 @@ Không còn khó nhọc như buổi hôm trước, buổi chạy hôm nay đư�
 ## Buổi chạy tiếp theo
 *Thứ 2, ngày 16 tháng 5 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -231,7 +231,7 @@ Mới hôm thứ 4 tuần trước, Hiếu đã có cho mình một buổi chạ
 ## Buổi chạy tiếp theo
 *Thứ 4, ngày 18 tháng 5 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -297,7 +297,7 @@ Sau buổi chạy ngày hôm nay, có lẽ sẽ cần một kế hoạch nghỉ 
 ## Buổi chạy tiếp theo
 *Thứ 2, ngày 23 tháng 5 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -360,7 +360,7 @@ Tiến lên phía trước, với những kiến thức và phát hiện mới!
 ## Buổi chạy tiếp theo
 *Chủ nhật, ngày 29 tháng 5 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -402,7 +402,7 @@ Bài học rút ra ở đây là tránh nạp cồn vào đêm ngay trước cá
 ## Buổi chạy tiếp theo
 *Thứ 2, ngày 30 tháng 5 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
 
 <hr style="border:1px solid gray">
 
@@ -442,8 +442,7 @@ Hôm nay là một buổi chạy dưỡng sinh nhẹ nhàng và dễ thở.
 ## Kết quả
 Bắt đầu làm chủ được hơi thở, Hiếu tự tìm cách đưa mình vào trạng thái "chạy tự động".
 
-"Chạy tự động" là cách nói của mình khi bản thân có thể chạy một cách thoải mái không biết mệt mỏi.
-Thông thường, trạng thái này thường xuất hiện vào những phút đầu tiên của buổi chạy, khi mà cơ thể còn tương đối khỏe và "nhẹ". Đôi khi, bằng cách đánh lạc hướng suy nghĩ, hướng sự tập trung vào một điều gì đó ngoài chạy bộ, mình cũng có thể tạm thời đưa cơ thể vào được trạng thái này trong giây lát. Nhưng để chủ động duy trì được trạng thái "chạy tự động" trong một thời gian dài là một điều mình chưa thể làm được, ít nhất là trước buổi chạy ngày hôm nay. Cá nhân mình để ý, sau khi chạy được một khoảng cách từ 2km cho đến 3km, kết hợp với việc giải thoát cơ thể khỏi tình trạng "khát oxy" bằng những nhịp thở đều, cảm giác cơ thể tự động chạy bắt đầu xuất hiện.
+"Chạy tự động" là cách nói của mình khi bản thân có thể chạy một cách thoải mái không biết mệt mỏi. Thông thường, trạng thái này thường xuất hiện vào những phút đầu tiên của buổi chạy, khi mà cơ thể còn tương đối khỏe và "nhẹ". Đôi khi, bằng cách đánh lạc hướng suy nghĩ, hướng sự tập trung vào một điều gì đó ngoài chạy bộ, mình cũng có thể tạm thời đưa cơ thể vào được trạng thái này trong giây lát. Nhưng để chủ động duy trì được trạng thái "chạy tự động" trong một thời gian dài là một điều mình chưa thể làm được, ít nhất là trước buổi chạy ngày hôm nay. Cá nhân mình để ý, sau khi chạy được một khoảng cách từ 2km cho đến 3km, kết hợp với việc giải thoát cơ thể khỏi tình trạng "khát oxy" bằng những nhịp thở đều, cảm giác cơ thể tự động chạy bắt đầu xuất hiện.
 
 Bằng việc đưa cơ thể vào trạng thái "chạy tự động", đầu óc sẽ không còn bị những suy nghĩ như "Mệt lắm rồi," "Sắp ngất đến nơi rồi," "Dừng lại,"... làm phiền nữa. Có thể chạy mãi, chắc là chỉ đến khi nào thấy chán quá thì nghỉ hoặc khi không còn cảm thấy đôi chân của mình đâu nữa thì mới dừng 🤣 .
 
@@ -459,4 +458,14 @@ Bằng việc đưa cơ thể vào trạng thái "chạy tự động", đầu �
 ## Buổi chạy tiếp theo
 *Thứ 7, ngày 4 tháng 6 năm 2022*
 
-<div style="text-align: center">🐨</div>
+<div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+## Bài tập của ngày 03/06/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🍀</div>
