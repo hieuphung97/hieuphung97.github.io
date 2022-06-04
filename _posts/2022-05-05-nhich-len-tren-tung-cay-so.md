@@ -469,3 +469,42 @@ Bằng việc đưa cơ thể vào trạng thái "chạy tự động", đầu �
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 04/06/2022
+- Khởi động
+- Chạy 12 phút + đi bộ 3 phút, thực hiện lặp lại 3 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Tưởng chừng sẽ chỉ là một buổi chạy nhẹ nhàng kéo dài trong vỏn vẹn có 45 phút (ít hơn buổi chạy cách đây ba ngày những 30 phút), nhưng có lẽ Hiếu đã nhầm. Đây là một buổi tập hội tụ của **mỏi**, **mệt**, và cả **những cản trở đến từ ngoại cảnh**.
+
+Có lẽ việc đạt được tổng quãng đường 10 cây số trong một buổi chạy đòi hỏi cơ thể người tập phải đánh đổi khá nhiều sức. Kỳ thực là hôm nay mình không hề đau như những hôm trước, nhưng cảm giác đau của ngày hôm nay khiến mình thực sự khó chịu. Chân bên phải, cái chân lành lặn duy nhất đã giúp mình vượt qua biết bao bài tập, ngày hôm nay cũng bắt đầu kêu đau và đuối sức. Sau hai hiệp chạy đầu tiên, dù đã đưa được cơ thể vào trạng thái "chạy tự động", đôi chân mình vẫn liên tục gửi những tín hiệu tiêu cực lên hệ thần kinh TW, gây cản trở đáng kể đến quá trình tiến hành buổi tập. Hiệp chạy cuối cũng vì thế mà thêm phần căng thẳng và khó thở.
+
+Đang chạy được nửa hiệp cuối, tự nhiên điện thoại đổ chuông, vì là số lạ nên mình đành giảm tốc và bắt máy, đề phòng là một cuộc gọi quan trọng. Nhưng chẳng có gì cả, chỉ là một cuộc gọi khảo sát với lời hứa hẹn là một phiếu giảm giá trị giá xx.000đ, mình vội từ chối và tiếp tục bài chạy vốn đang diễn ra căng thẳng.
+
+Chạy thêm được 2 phút, nhịp thở bắt đầu bị rối loạn. Tức ngực đi kèm với đôi chân lảo đảo, trong đầu mình bắt đầu xuất hiện suy nghĩ "phải dừng lại". Căng thẳng lên đến đỉnh điểm và mình quyết định phải vượt qua nó. May thay, hơi thở đã trở lại bình thường sau hơn 2 phút tiếp tục chạy, đưa cơ thể mình trở lại trạng thái "chạy tự động".
+
+Chỉ còn cách "vạch đích" khoảng 2 phút, phòng tập đột ngột mất điện, máy chạy cũng vì thế mà dừng hẳn. Đang chạy với cường độ vận động cao mà bỗng nhiên dừng lại sẽ gây ảnh hưởng không tốt đến hệ tuần hoàn và xương khớp. Sau hôm nay tự nhiên mình lại được lĩnh thêm cơn đau từ đầu gối phải nữa, hơi buồn. Được một lúc thì có điện trở lại, nhưng cái máy mình vừa chạy cách đây ít phút đã ra đi mãi mãi. (Chính xác là không thể khởi động lại được.) Chắc là nãy phải gánh ông Hiếu cực quá nên là giờ muốn nghỉ ngơi đây mà 😆 .
+
+Chuyển sang chiếc máy ngay bên cạnh, mình tiến hành lại hiệp chạy cuối, **từ đầu**. Tổng thời gian chạy cũng vì thế mà bị kéo dài thêm 15 phút nữa. May mắn thay, trong lần thực hiện lại này, mình được chạy trong tình trạng cơ thể thoải mái nhất, không thì chắc đã ngất luôn ra đấy rồi 🤪 .
+
+Kết thúc buổi chạy, ngoài chỗ mồ hôi và các chỉ số thành tích, mình còn mang được về thêm một thứ nữa, đó là "KHÔNG ĐƯỢC BỎ CUỘC GIỮA CHỪNG!"
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_4_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 04/06/2022" title="Tóm tắt kết quả chạy bộ ngày 04/06/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_4_6_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 2, ngày 6 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
