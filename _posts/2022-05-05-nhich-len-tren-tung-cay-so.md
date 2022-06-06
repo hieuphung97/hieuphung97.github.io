@@ -508,3 +508,28 @@ Kết thúc buổi chạy, ngoài chỗ mồ hôi và các chỉ số thành tí
 *Thứ 2, ngày 6 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 06/06/2022
+- Khởi động
+- Chạy 12 phút + đi bộ 3 phút, thực hiện lặp lại 3 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Nhịp tim hôm nay tuy cao (trung bình 160bpm, tối đa 180bpm), nhưng cảm giác chạy thì lại vô cùng thoải mái. Chân không quá đau, có thể vung một cách tương đối tự do; còn nhịp thở thì được duy trì tương đối đều trong suốt buổi tập.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_6_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/06/2022" title="Tóm tắt kết quả chạy bộ ngày 06/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 4, ngày 8 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
