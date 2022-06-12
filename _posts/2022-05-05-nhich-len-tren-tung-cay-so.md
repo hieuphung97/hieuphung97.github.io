@@ -533,3 +533,38 @@ Nhịp tim hôm nay tuy cao (trung bình 160bpm, tối đa 180bpm), nhưng cảm
 *Thứ 4, ngày 8 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 08/06/2022
+- Khởi động
+- Chạy 20 phút + đi bộ 3 phút, thực hiện lặp lại 3 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Nhịp tim hôm nay vẫn rất cao (trung bình 166bpm, tối đa 181bpm), nhưng kỳ lạ là cảm giác chạy vẫn rất nhẹ nhàng cùng với nhịp thở tương đối đều. Thứ duy nhất khiến cho mình nản chí giờ đây là cảm giác nhàm chán khi chạy trong phòng tập với máy chạy trong một khoảng thời gian tương đối dài. Sắp tới có lẽ phải chuyển sang chạy ngoài trời mới mong giải quyết được vấn đề này.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_8_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 08/06/2022" title="Tóm tắt kết quả chạy bộ ngày 08/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Chủ nhật, ngày 12 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 09/06/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🍀</div>
