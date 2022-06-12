@@ -568,3 +568,34 @@ Nhịp tim hôm nay vẫn rất cao (trung bình 166bpm, tối đa 181bpm), như
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 12/06/2022
+- Khởi động
+- Chạy liền 40 phút không nghỉ
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Hôm nay là lần đầu tiên trong đời mình chạy liên tục không nghỉ trên 30 phút. Không chỉ đạt được một ngưỡng chịu đựng mới, mình còn cảm thấy khá thoải mái với việc hít thở và vận lực cơ chân. Từ bây giờ sẽ là những thử thách mới, "vượt qua cơn thèm nước" và "chiến đấu với sự nhàm chán".
+
+Về vấn đề nước nôi, mình cảm thấy chỉ là vấn đề thời gian là có thể vượt qua được. Mục tiêu bây giờ sẽ là vận động liên tục trên quãng đường 8km chỉ với một lần tiếp nước.
+
+Cái khó bây giờ là vượt qua được sự nhàm chán khi chạy bộ. Vì một vài lý do cá nhân, mình chưa thể sắp xếp được những buổi chạy bộ ngoài trời mà thay vào đó là sử dụng máy chạy ở phòng tập. Cái cảm giác đứng yên một chỗ nhìn vào khoảng không gian tẻ nhạt phía trước trong hàng giờ đồng hồ liền thực sự rất khó chịu. Có lẽ so sánh thế này thì không được đúng cho lắm nhưng mình thấy việc này giống với việc ngồi thiền. Mà thiền kiểu này thì tâm không có tĩnh nổi, khi mà cơ thể còn phải vắt đến từng giọt năng lượng cho việc duy trì trạng thái vận động.
+
+Có lẽ mình sẽ thử chuyển sang cày phim trong lúc chạy thay vì chỉ nghe nhạc. Nếu không có kết quả, có lẽ đã đến lúc thay đổi lại lịch sinh hoạt, làm việc và tập luyện của bản thân để có thể thực hành tại một công viên hay một cung đường nhựa nào đấy.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_12_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 12/06/2022" title="Tóm tắt kết quả chạy bộ ngày 12/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 3, ngày 14 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
