@@ -599,3 +599,13 @@ Có lẽ mình sẽ thử chuyển sang cày phim trong lúc chạy thay vì ch�
 *Thứ 3, ngày 14 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 13/06/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
+
+<div style="text-align: center">🍀</div>
