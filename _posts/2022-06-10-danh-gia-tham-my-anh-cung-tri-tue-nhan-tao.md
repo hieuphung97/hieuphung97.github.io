@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Đánh giá thẩm mỹ ảnh cùng trí tuệ nhân tạo
+subtitle: Tìm hiểu và bàn luận về bài toán đánh giá thẩm mỹ ảnh cùng những giải pháp giải quyết bài toán này trên góc độ kỹ thuật với công cụ là trí tuệ nhân tạo.
 background: /img/academic/iaa/background.jpg
 tags: Academic
 comments: true
