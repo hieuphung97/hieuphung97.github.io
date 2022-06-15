@@ -609,3 +609,30 @@ Có lẽ mình sẽ thử chuyển sang cày phim trong lúc chạy thay vì ch�
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 14/06/2022
+- Khởi động
+- Chạy liền 40 phút không nghỉ
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Vẫn nhẹ nhàng như buổi chạy liền tù tì 40 phút của ngày hôm trước, nhưng hôm nay được cung cấp đủ nước hơn, chục phút chạy cuối mình không còn phải liên tục nuốt nước miếng nữa. (Vì một chút trục trặc giữa buổi chạy nên có tạm dừng bộ đo trên đồng hồ, chạy cho đến khi gần về đích rồi mới phát hiện ra là quên chưa bật lại dẫn đến các thông tin được lưu bị sai lệch.)
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_14_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 14/06/2022" title="Tóm tắt kết quả chạy bộ ngày 14/06/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_14_6_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 5, ngày 16 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
