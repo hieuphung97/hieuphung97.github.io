@@ -636,3 +636,36 @@ Vẫn nhẹ nhàng như buổi chạy liền tù tì 40 phút của ngày hôm t
 *Thứ 5, ngày 16 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 16/06/2022
+- Khởi động
+- Chạy 25 phút + đi bộ 3 phút, thực hiện lặp lại 3 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Sau hai buổi chạy cự ly ngắn (dưới 10km, chạy liên tục không nghỉ để tăng sức bền), mình lại có một buổi chạy dài hơi (ý là hơi dài).
+
+Cũng không để ý là từ lúc nào mà đã không còn cái thế thở phì phò như trước nữa. Nhớ lại cái hồi mà ngay cả thở thôi cũng đã khiến những người xung quanh phải chú ý, có khi nghĩ thằng này chạy ghê lắm, nhưng thực ra thì yếu nhớt, phải nói là ngại ghê. Thở gì mà thở như mấy bạn cẩu vừa chơi đuổi bắt, thực sự là nghe rất to và khó nhọc. Dạo này thở đã nhẹ nhàng hơn, vừa đỡ mệt, lại vừa giúp bản thân thấy tự tin hơn. 
+
+Hồi mà ngay cả việc đứng đi còn không vững, mình cứ thắc mắc mãi là tại sao một người có thể chạy liền tù tì cả mấy chục km không nghỉ, đấy là còn chưa kể đến những chặng đua lên đến con số hàng trăm, nghe nó cứ vô lý thế nào ý. Nhưng kể từ khi thoát được cái ngưỡng 5km, mình bắt đầu thấy việc này khả thi vô cùng, chỉ là sẽ rất rất mệt thôi.
+
+Hôm nay là lần thứ ba mình chạy trên 10km, dù không phải là chạy liên tục nhưng có một cảm giác là mình hoàn toàn có thể chạy được, liền 10km, ngay lúc này. Nhưng phải cố để kìm được cái sự nôn nóng này lại, mình vẫn còn một kế hoạch luyện tập kéo dài thêm hai tuần nữa để chuẩn bị cho mục tiêu lớn này -- **chinh phục 10km**.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_16_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 16/06/2022" title="Tóm tắt kết quả chạy bộ ngày 16/06/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_16_6_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 7, ngày 18 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
