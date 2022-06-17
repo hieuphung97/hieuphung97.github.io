@@ -648,7 +648,7 @@ Vẫn nhẹ nhàng như buổi chạy liền tù tì 40 phút của ngày hôm t
 
 ## Kết quả
 
-Sau hai buổi chạy cự ly ngắn (dưới 10km, chạy liên tục không nghỉ để tăng sức bền), mình lại có một buổi chạy dài hơi (ý là hơi dài).
+Sau hai buổi chạy cự ly ngắn (dưới 10km, chạy liên tục không nghỉ để tăng sức bền), mình lại có một buổi chạy dài hơi (ý là hơi dài một chút).
 
 Cũng không để ý là từ lúc nào mà đã không còn cái thế thở phì phò như trước nữa. Nhớ lại cái hồi mà ngay cả thở thôi cũng đã khiến những người xung quanh phải chú ý, có khi nghĩ thằng này chạy ghê lắm, nhưng thực ra thì yếu nhớt, phải nói là ngại ghê. Thở gì mà thở như mấy bạn cẩu vừa chơi đuổi bắt, thực sự là nghe rất to và khó nhọc. Dạo này thở đã nhẹ nhàng hơn, vừa đỡ mệt, lại vừa giúp bản thân thấy tự tin hơn. 
 
