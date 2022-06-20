@@ -700,3 +700,28 @@ Giờ nghĩ lại, thấy thật may vì đã không bỏ ngang. Nhưng, nhưng 
 *Thứ 2, ngày 20 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 20/06/2022
+- Khởi động
+- Chạy liền 40 phút không nghỉ
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Một buổi chạy nhẹ nhàng để bắt đầu một tuần làm việc mới.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_20_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 20/06/2022" title="Tóm tắt kết quả chạy bộ ngày 20/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 5, ngày 23 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
