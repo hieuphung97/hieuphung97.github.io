@@ -2,7 +2,9 @@ title: Hiếu's Hobbies & Stories
 author: Hieu Phung
 email: contact@hieuphung97.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just another Blog on the Internet.
+  Let me tell you stories<br/>
+  about <i>machine learning</i>, <i>running</i>, <i>coffee brewing</i>,<br/>
+  and <b>MY OWN</b> <i>funny things</i>...
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: hieuphung97
