@@ -654,7 +654,7 @@ Cũng không để ý là từ lúc nào mà đã không còn cái thế thở p
 
 Hồi mà ngay cả việc đứng đi còn không vững, mình cứ thắc mắc mãi là tại sao một người có thể chạy liền tù tì cả mấy chục km không nghỉ, đấy là còn chưa kể đến những chặng đua lên đến con số hàng trăm, nghe nó cứ vô lý thế nào ý. Nhưng kể từ khi thoát được cái ngưỡng 5km, mình bắt đầu thấy việc này khả thi vô cùng, chỉ là sẽ rất rất mệt thôi.
 
-Hôm nay là lần thứ ba mình chạy trên 10km, dù không phải là chạy liên tục nhưng có một cảm giác là mình hoàn toàn có thể chạy được, liền 10km, ngay lúc này. Nhưng phải cố để kìm được cái sự nôn nóng này lại, mình vẫn còn một kế hoạch luyện tập kéo dài thêm hai tuần nữa để chuẩn bị cho mục tiêu lớn này -- **chinh phục 10km**.
+Hôm nay là lần thứ ba mình chạy trên 10km, dù không phải là chạy liên tục nhưng có một cảm giác là mình hoàn toàn có thể chạy được, liền 10km, ngay lúc này. Nhưng phải cố để kìm được cái sự nôn nóng này lại, mình vẫn còn một kế hoạch luyện tập kéo dài thêm hai tuần nữa để chuẩn bị cho mục tiêu lớn này --- **chinh phục 10km**.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -681,12 +681,11 @@ Hôm nay là lần thứ ba mình chạy trên 10km, dù không phải là chạ
 
 ## Kết quả
 
-Vẫn là một buổi chạy với những bài tập nhẹ nhàng như bao ngày khác, nhưng hôm nay, Hiếu đã có thêm một trải nghiệm mới -- đau bụng.
+Vẫn là một buổi chạy với những bài tập nhẹ nhàng như bao ngày khác, nhưng hôm nay, Hiếu đã có thêm một trải nghiệm mới --- đau bụng.
 
-Toàn bộ câu chuyện có lẽ bắt đầu từ những ngày hôm trước, từ cái lúc mình bổ sung thêm tập bụng vào những bài tập bổ trợ, bên cạnh những bài tập chân như nhảy dây hay nhón gót. Cơ bụng, hay còn gọi là <a href="https://www.physio-pedia.com/Core_Muscles" target="_blank">cơ trung tâm (Core Muscles)</a> là nhóm cơ thân và cơ hông bao quanh cột sống, nội tạng vùng bụng và hông. Chỉ với hai chữ "trung tâm" thôi đã cho thấy tầm ảnh hưởng của nó đến với phần còn lại của cơ thể, nằm ở vùng ranh giới giữa phần thân dưới và thân trên, có vai trò giúp cho cơ thể giữ được thăng bằng. Đấy là còn chưa kể đến những lợi ích về mặt thẩm mỹ khiến cho bao anh chị em phải gắng công luyện tập, chỉ mong sớm sở hữu một ngoại hình đẹp với những múi cơ bụng cuồn cuộn. Chuyện xấu với đẹp có lẽ hẹn mọi người dịp khác ta chém tiếp, giờ sẽ chỉ tập trung vào chuyện chạy bộ.
+Toàn bộ câu chuyện có lẽ bắt đầu từ những ngày hôm trước, từ cái lúc mình bổ sung thêm tập bụng vào những bài tập bổ trợ, bên cạnh những bài tập chân như nhảy dây hay nhón gót. Cơ bụng, hay còn gọi là <a href="https://www.physio-pedia.com/Core_Muscles" target="_blank">cơ trung tâm (Core Muscles)</a>, là nhóm cơ thân và cơ hông bao quanh cột sống, nội tạng vùng bụng và hông. Chỉ với hai chữ "trung tâm" thôi đã cho thấy tầm ảnh hưởng của nó đến với phần còn lại của cơ thể, nằm ở vùng ranh giới giữa phần thân dưới và thân trên, có vai trò giúp cho cơ thể giữ được thăng bằng. Đấy là còn chưa kể đến những lợi ích về mặt thẩm mỹ khiến cho bao anh chị em phải gắng công luyện tập, chỉ mong sớm sở hữu một ngoại hình đẹp với những múi cơ bụng cuồn cuộn. Chuyện xấu với đẹp có lẽ hẹn mọi người dịp khác ta chém tiếp, giờ sẽ chỉ tập trung vào chuyện chạy bộ.
 
-Để chuẩn bị dần cho những cung đường chạy dài và những bài chạy tốc độ cao sắp tới, mình bắt đầu dành thêm một chút sự quan tâm đến nhóm cơ vùng bụng. Vì đã lâu không động nhiều đến nhóm cơ này, chỉ với vài bài tập cơ bản mà những bó cơ đã thấy mỏi nhừ. Lần đầu tiên trong hai tháng vừa qua, mình mới cảm giác được những sợi cơ bụng rõ đến vậy, thông qua cảm giác đau. Đau nhưng không quá khó chịu, đau nhưng vẫn có thể tiếp tục chạy băng băng. Mọi thứ chỉ bắt đầu trở nên tồi tệ sau khi gồng chân nhấc gối được khoảng 7 phút, với cơn đau đến từ... hệ tiêu hóa. Chắc mọi người cũng phần nào tưởng tượng ra được hoàn cảnh lúc đấy éo le đến nhường nào. Ngoài đau, trong cũng đau, phải gọi là buổi chạy với một cái bụng như muốn bùng cháy. Suy nghĩ đầu tiên lúc đấy, chắc chắn rồi, "Phải dừng, phải dừng lại thôi!"
-Cơ mà bằng một cách thần kỳ nào đó, mình đã chạy tiếp được đến hơn 30 phút để hoàn thành bài tập kéo dài 40 phút liên tục.
+Để chuẩn bị dần cho những cung đường chạy dài và những bài chạy tốc độ cao sắp tới, mình bắt đầu dành thêm một chút sự quan tâm đến nhóm cơ vùng bụng. Vì đã lâu không động nhiều đến nhóm cơ này, chỉ với vài bài tập cơ bản mà những bó cơ đã thấy mỏi nhừ. Lần đầu tiên trong hai tháng vừa qua, mình mới cảm giác được những sợi cơ bụng rõ đến vậy, thông qua cảm giác đau. Đau nhưng không quá khó chịu, đau nhưng vẫn có thể tiếp tục chạy băng băng. Mọi thứ chỉ bắt đầu trở nên tồi tệ sau khi gồng chân nhấc gối được khoảng 7 phút, với cơn đau đến từ... hệ tiêu hóa. Chắc mọi người cũng phần nào tưởng tượng ra được hoàn cảnh lúc đấy éo le đến nhường nào. Ngoài đau, trong cũng đau, phải gọi là buổi chạy với một cái bụng như muốn bùng cháy. Suy nghĩ đầu tiên lúc đấy, chắc chắn rồi, "Phải dừng, phải dừng lại thôi!" Cơ mà bằng một cách thần kỳ nào đó, mình đã chạy tiếp được đến hơn 30 phút để hoàn thành bài tập kéo dài 40 phút liên tục.
 
 Giờ nghĩ lại, thấy thật may vì đã không bỏ ngang. Nhưng, nhưng chắc chắn sau vụ này, mình sẽ quan tâm nhiều hơn đến việc ăn uống. Dính một lần thôi... là nhớ nhau cả đời...
 
@@ -699,5 +698,30 @@ Giờ nghĩ lại, thấy thật may vì đã không bỏ ngang. Nhưng, nhưng 
 
 ## Buổi chạy tiếp theo
 *Thứ 2, ngày 20 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 20/06/2022
+- Khởi động
+- Chạy liền 40 phút không nghỉ
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Một buổi chạy nhẹ nhàng để bắt đầu một tuần làm việc mới.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_20_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 20/06/2022" title="Tóm tắt kết quả chạy bộ ngày 20/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 5, ngày 23 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
