@@ -725,3 +725,54 @@ Một buổi chạy nhẹ nhàng để bắt đầu một tuần làm việc m�
 *Thứ 5, ngày 23 tháng 6 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 23/06/2022
+- Khởi động
+- Chạy 30 phút + đi bộ 3 phút, thực hiện lặp lại 3 lần liên tục
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Phút chạy thứ 85
+
+Buổi chạy ngày hôm nay có lẽ là buổi chạy dài nhất từ trước cho đến nay, với tổng 90 phút chạy; và có lẽ cũng sẽ là buổi chạy dài nhất của mình tính từ bây giờ cho đến 1 tháng sắp tới với chế độ luyện tập hiện tại. Bài chạy hôm nay được chia làm ba hiệp, mỗi hiệp kéo dài 30 phút, với đủ mọi khung bậc cảm xúc khác nhau.
+
+30 phút đầu tiên có lẽ là quãng thời gian tươi đẹp nhất của cả ngày hôm nay. Mình vận động với những bước chạy nhẹ, nhịp thở đều, và không một chút thông tin tiêu cực nào được truyền đến cho não bộ.
+"Úi xời, tưởng gì, cứ để cơ thể tự chạy thế này thì dù có x2 tổng thời gian lên mình cũng chạy được, giờ mình nắm được bí kíp trong tay rồi, thư giãn và tận hưởng bài tập thôi..."
+Kết thúc 30 phút đầu tiên, Hiếu tiếp cho cơ thể vài ngụm nước.
+
+Bắt đầu làm nóng lại người cho 30 phút tiếp theo, có vẻ hơi tốn thời gian một chút vì đôi chân có hơi lảo đảo. Có lẽ chỉ là phản ứng bình thường của cơ thể sau khi vừa trải qua khoảng thời gian nghỉ, mình vẫn nghĩ như vậy cho đến khi hoàn thành 10 phút chạy đầu tiên của hiệp thứ hai.
+
+"Không ổn rồi, chân hôm nay sao cứ thấy yếu hơn mọi hôm là thế quái nào???"
+Lúc này mình mới nhớ lại chuỗi bài tập bổ trợ cho nhóm cơ vùng bụng chiều nay cùng với anh Hoàng, chỉ cách bài chạy đâu đấy khoảng 2 tiếng. Đáng lẽ mình không nên thực hiện hai bài tập liền nhau như vậy, nhưng vì chủ quan, phần vì hiếu kỳ, mình tặc lưỡi nghĩ, "Chắc không sao đâu, mình chạy chủ yếu toàn dùng chân chứ có dùng mấy đến bụng đâu, đến khi nào có những bài chạy tốc độ cao thì mới cần dùng nhiều đến cơ bụng." Mình quên mất một điều là mấy bài tập bụng chiều nay mình có dùng đến mối cơ bụng đâu, lâu không tập, cơ bụng yếu, toàn phải gồng chân với mấy nhóm cơ xung quanh để mà gánh cho cái bụng.
+
+"Toang thật, có lẽ chân mình đã hoạt động quá sức phải từ hơn 5 phút trước đấy rồi."
+Cũng may là đôi chân cũng bắt đầu nghe lời trở lại bắt đầu từ phút thứ 17 của hiệp. Hoàn thành hiệp hai, khát, Hiếu tu liền một mạch ba hụm nước để giải tỏa.
+
+Không còn đơn giản như hai hiệp trước, hiệp thứ ba bắt đầu với một đôi chân mỏi nhừ. Chính xác là không còn cảm thấy đôi chân chạm đất, Hiếu lơ lửng trên chiếc máy chạy bộ bạc tỷ của phòng tập với một thứ sức mạnh vô hình. Sau hơn 10 phút nghe nhạc, trong đầu mình đã bắt đầu xuất hiện suy nghĩ muốn dừng lại, không phải vì tức ngực khó thở như xưa, mà là vì không thể nhấc chân lên được nữa. Lúc đấy chỉ có thể động viên bản thân ráng nghe thêm một bài nữa, rồi một bài nữa, cứ thế cứ thế, giữ đúng một suy nghĩ như vậy.
+
+Lết cẳng được đến phút thứ 15, trong đầu mình chợt lóe lên một ý tưởng, "Dừng lại bơm xăng cái đã, no nước rồi ta chạy nốt 15 phút cuối." Ngoái cổ sang nhìn cái bình nước thì nó đã hết đến giọt cuối cùng mất rồi còn đâu 🤣 , nghĩ ló chán.
+"Thôi đành cố gồng mà chạy nốt cho xong rồi còn đi lấy nước."
+Thực ra còn một lý do nữa khiến mình không dừng lại lúc đấy, đó là chỉ cần lúc đấy mình dừng lại thì chắc chắn mình sẽ không thể nào nhấc chân lên được nữa, thế nên là đành phải cố, vì những nỗ lực đã bỏ ra của cả ngày hôm nay, và toàn bộ những tích lũy từ trước đến nay nữa, tất cả vì ngày hôm nay, một ngày đặc biệt.
+
+Mặc dù chỉ hơi khát so với bình thường một chút, nhưng vì đã quá mỏi, đầu óc không còn nghĩ được thông, nên mắt mình lúc đấy chỉ hiện ra bóng hình quả dừa nước với cái ống hút vẻ vẩy. Có lẽ mình đã vượt quá giới hạn từ rất lâu rồi, đành ngước mắt nhìn đồng hồ, đếm từng giây, dừng lại ở đúng phút thứ 25 của 30 phút cuối, chỉ còn đúng 5 phút nữa là cán đích. Chưa có một bài tập nào trong vòng hơn 1 tháng vừa rồi là mình bỏ dở. Nếu là mình với một đôi chân lành lặn hơn, chắc chắn mình sẽ cố nghe thêm một bài nhạc nữa. Hiếu chuyển từ chạy sang đi bộ, bắt đầu nhớ lại rằng mình vẫn còn đôi chân, bước từ từ chậm rãi để hạ nhiệt.
+
+Chắc chắn sau hôm nay mình sẽ cần phải nghỉ dưỡng sức ít nhất là 2 ngày trước khi có thể chạy trở lại. Một chút buồn vì đã dừng lại ở phút thứ 85, nhưng thay vì đắm mình trong tiếc nuối, mình sẽ nuôi hi vọng cho tương lai. Món nợ 5 phút này, chắc chắn sẽ trả đủ.
+
+P.S. Giả sử lúc đó cố thêm 5 phút nữa mà ngã ra đấy thì chán lắm 😅 .
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_23_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/06/2022" title="Tóm tắt kết quả chạy bộ ngày 23/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Chủ nhật, ngày 26 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
