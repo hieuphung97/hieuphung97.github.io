@@ -789,7 +789,7 @@ Chắc chắn sau hôm nay mình sẽ phải nghỉ dưỡng sức ít nhất l�
 
 ## Kết quả
 
-Đạt được ngưỡng chịu đựng mới, Hiếu đồng thời lĩnh luôn thành quả chạy được 10km liên tục. Không những thế, hắn còn trả được món nợ 5 phút của buổi chạy ngày hôm trước với việc nâng thời gian bài tập. Chạy đến phút thứ 65, thấy chiều dài quãng đường chưa đẹp, hắn lại tặc lưỡi nghe thêm một bài hát nữa, tiếp tục cắm đầu chạy... và dừng ở phút thứ 68. Kết thúc một bài chạy nhẹ nhàng với nhịp tim và hơi thở đều; chân có hơi mỏi chút nhưng trộm vía không bị chấn thương. 
+Đạt được ngưỡng chịu đựng mới, Hiếu đồng thời lĩnh luôn thành quả chạy được 10km liên tục. Không những thế, hắn còn trả được món nợ 5 phút của buổi chạy ngày hôm trước với việc nâng thời gian bài tập. Chạy đến phút thứ 65, thấy chiều dài quãng đường chưa đẹp, hắn lại tặc lưỡi nghe thêm một bài hát nữa, tiếp tục cắm đầu chạy... và dừng ở phút thứ 68. Kết thúc một bài chạy nhẹ nhàng với nhịp tim và hơi thở đều; chân có hơi mỏi chút nhưng trộm vía không bị chấn thương.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -800,5 +800,15 @@ Chắc chắn sau hôm nay mình sẽ phải nghỉ dưỡng sức ít nhất l�
 
 ## Buổi chạy tiếp theo
 *Thứ 3, ngày 28 tháng 6 năm 2022*
+
+<div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 27/06/2022
+*(Tập bổ trợ)*
+- Khởi động
+- Nhảy dây 100 nhịp, thực hiện 5 lần
+- Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
