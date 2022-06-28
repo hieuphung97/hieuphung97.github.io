@@ -812,3 +812,28 @@ Chắc chắn sau hôm nay mình sẽ phải nghỉ dưỡng sức ít nhất l�
 - Nhón gót 30 nhịp, thực hiện 5 lần
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 28/06/2022
+- Khởi động
+- Chạy liền 40 phút không nghỉ
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Một buổi chạy nhẹ nhàng, chuẩn bị cho buổi ALL-OUT vào thứ 6 tới.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_28_6_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 28/06/2022" title="Tóm tắt kết quả chạy bộ ngày 28/06/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+## Buổi chạy tiếp theo
+*Thứ 6, ngày 1 tháng 7 năm 2022*
+
+<div style="text-align: center">🍀</div>
