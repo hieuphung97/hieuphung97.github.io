@@ -837,3 +837,27 @@ Một buổi chạy nhẹ nhàng, chuẩn bị cho buổi ALL-OUT vào thứ 6 t
 *Thứ 6, ngày 1 tháng 7 năm 2022*
 
 <div style="text-align: center">🍀</div>
+
+<hr style="border:1px solid gray">
+
+# Bài tập của ngày 01/07/2022
+- Khởi động
+- Chạy liền 10km không nghỉ
+- Giãn cơ
+
+---
+
+## Kết quả
+
+Vậy là cũng đã đến lúc khép lại cuộc hành trình chinh phục 10km kéo dài suốt 2 tháng vừa rồi. Kết thúc ngày mồng 1 tháng 7 với một bài chạy cùng tất cả những gì mình có, với phong độ cao nhất. Hiếu của nửa đầu 2022 đã là một sự thay đổi, Hiếu của nửa còn lại sẽ là quá trình tích lũy, để chuẩn bị cho năm 2023 với những bứt phá!
+
+Hành trình tiếp theo --- Tiến tới Half Marathon 🏃
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_1_7_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/07/2022" title="Tóm tắt kết quả chạy bộ ngày 01/07/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_1_7_2022_2.jpg" alt="Không tiêu đề" title="Không tiêu đề" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+<div style="text-align: center">🍀</div>
