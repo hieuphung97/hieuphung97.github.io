@@ -7,6 +7,13 @@ tags: Running
 comments: true
 ---
 
+<div style="text-align: right">
+<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/hieuphung97' target="_clean">
+  Find me on
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>
+</div>
+
 > Trích "<a href="https://hieuphung97.com/2022/05/05/nhich-len-tren-tung-cay-so.html" target="_blank">Nhích lên trên từng cây số — Hiếu và hành trình chinh phục 10km</a>".
 
 ---
