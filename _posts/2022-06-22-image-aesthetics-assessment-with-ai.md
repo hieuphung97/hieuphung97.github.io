@@ -9,7 +9,7 @@ permalink: /image-aesthetics-assessment-with-ai.html
 ---
 
 > TL;DR: Learn and discuss the image aesthetics assessment problem and artificial intelligence based solutions for it.
-> Link to the Vietnamese version of this blog post can be found [here](https://hieuphung97.com/danh-gia-tham-my-anh-cung-tri-tue-nhan-tao.html).
+> Liên kết đến bản tiếng Việt của bài viết có thể được tìm thấy tại [đây](https://hieuphung97.com/danh-gia-tham-my-anh-cung-tri-tue-nhan-tao.html).
 
 ---
 

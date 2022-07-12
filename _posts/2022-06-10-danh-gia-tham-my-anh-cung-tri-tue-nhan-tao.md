@@ -9,7 +9,7 @@ permalink: /danh-gia-tham-my-anh-cung-tri-tue-nhan-tao.html
 ---
 
 > TL;DR: Tìm hiểu và bàn luận về bài toán đánh giá thẩm mỹ ảnh cùng những giải pháp giải quyết bài toán này trên góc độ kỹ thuật với công cụ là trí tuệ nhân tạo.
-> Liên kết đến bản tiếng Anh của bài viết có thể được tìm thấy tại [đây](https://hieuphung97.com/image-aesthetics-assessment-with-ai.html).
+> Link to the English version of this blog post can be found [here](https://hieuphung97.com/image-aesthetics-assessment-with-ai.html).
 
 ---
 
