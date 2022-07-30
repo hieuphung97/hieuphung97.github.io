@@ -30,7 +30,7 @@ comments: true
 
 Sau hai tuần dài gần như không vận động, hôm nay Hiếu chạy bộ.
 - Mục tiêu: Chinh phục quãng đường 10km.
-- Chế độ luyện tập: Do nhiếp ảnh gia chuyên nghiệp kiêm vận động viên Hoàng Lê lên lịch. (Để đạt được mục tiêu 10km, nghiêm túc mà nói, không thể cứ chạy một cách thiếu khoa học như trước được.)
+- Chế độ luyện tập: Do nhiếp ảnh gia chuyên nghiệp kiêm vận động viên <a href="https://www.strava.com/athletes/36239499" target="_blank">Hoàng Lê</a> lên lịch. (Để đạt được mục tiêu 10km, nghiêm túc mà nói, không thể cứ chạy một cách thiếu khoa học như trước được.)
  
 Như bình thường với bản tính lười biếng, mỗi khi bắt đầu một thứ gì đó mới, mình sẽ chọn một buổi sáng thứ 2 nào đấy để làm cột mốc. Dưng cơ mà có phải là thứ 2 tuần sau hay không thì có lẽ chỉ có Phật Tổ mới biết được 😆 . Lần này sẽ là một ngoại lệ.
 
