@@ -859,7 +859,7 @@ Một buổi chạy nhẹ nhàng, chuẩn bị cho buổi ALL-OUT vào thứ 6 t
 
 Vậy là cũng đã đến lúc khép lại cuộc hành trình chinh phục 10km kéo dài suốt 2 tháng vừa rồi. Kết thúc ngày mồng 1 tháng 7 với một bài chạy cùng tất cả những gì mình có, với phong độ cao nhất. Hiếu của nửa đầu 2022 đã là một sự thay đổi, Hiếu của nửa còn lại sẽ là quá trình tích lũy, để chuẩn bị cho năm 2023 với những bứt phá!
 
-Hành trình tiếp theo --- Tiến tới Half Marathon 🏃
+Hành trình tiếp theo --- [Vươn tới Half Marathon](https://hieuphung97.com/2022/08/01/vuon-toi-half-marathon.html) 🏃
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
