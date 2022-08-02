@@ -46,3 +46,16 @@ Về đến nhà, muộn hơn so với kế hoạch đề ra 30 phút, Hiếu t�
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_1_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/08/2022" title="Tóm tắt kết quả chạy bộ ngày 01/08/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_02_08_2022"></a>Buổi tập ngày 02/08/2022
+
+Một bài tập hồi sức ngay sau buổi chạy dài đầu tuần.
+
+Hiếu chạy nhẹ nhàng với những sải bước ngắn, ráng giữ cho nhịp tim mỗi phút dưới ngưỡng 150 nhịp.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_2_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 02/08/2022" title="Tóm tắt kết quả chạy bộ ngày 02/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
