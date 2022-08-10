@@ -59,3 +59,79 @@ Hiếu chạy nhẹ nhàng với những sải bước ngắn, ráng giữ cho n
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_2_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 02/08/2022" title="Tóm tắt kết quả chạy bộ ngày 02/08/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_04_08_2022"></a>Buổi tập ngày 04/08/2022
+
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_4_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 04/08/2022" title="Tóm tắt kết quả chạy bộ ngày 04/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_07_08_2022"></a>Buổi tập ngày 07/08/2022
+
+Chinh phục một cự ly mới vào một buổi sáng không được thời tiết ủng hộ.
+
+Rảo bước, nhấc gót, chạy nhẹ nhàng dọc con đường Trần Thủ Độ.
+Những bước chạy có chút khó thở, có lẽ phần là do độ ẩm.
+
+Bài khởi động của ngày hôm nay thật nặng nhọc.
+Vẫn cường độ như vậy, nhưng cơ thể này lại không nghĩ như thế.
+
+Vào đến công viên Yên Sở, bắt đầu lượt tăng tốc đầu tiên trên con đường với những bóng đèn thắp sáng.
+Hiếu lạng lách để tránh những đám rác cùng với những cái xác áo mưa.
+Hẳn là đêm qua đã có một sự kiện thật linh đình được diễn ra ngay tại chỗ này.
+
+Thoát khỏi cung đường sự kiện, Hiếu tập trung dồn sức vào bài chạy.
+Chạy một mạch, hoàn thành ba phần tứ cự ly với một đôi chân bắt đầu rệu rã.
+
+May thay, đang chạy thì bắt gặp ngay hai anh đứng tuổi.
+“Chính ra... chạy 21... cây... khoai phết... nhờ...”
+Vừa nói chuyện, hai anh vừa thực hiện những bước chạy thật đều và vững chắc.
+
+Bám theo hai anh như cách mà một runner bám theo hai pacer dẫn đường, Hiếu dồn hết sức bình sinh đánh tay nhấc gối.
+Cố giữ số nhịp chân mỗi phút với chút sức lực ít ỏi còn lại, chân thì tê mà đầu thì u mê khó tả.
+
+Được chạy cùng pacer cảm giác thật tuyệt.
+Bản thân cứ như bị cuốn theo guồng chạy của họ vậy, thật đều và vững chắc.
+
+Hai anh hoàn thành bài chạy của mình trong khi Hiếu vẫn còn phải chạy thêm chút đỉnh.
+Bẻ lái, Hiếu chuyển sang bám theo hai chị vận động viên đang chạy ngay ở làn bên cạnh.
+Cố gắng thích nghi với nhịp chân của hai chị để hoàn thành những trăm mét cuối cùng.
+
+“\*ao \*ây rồ\* em,” một thứ âm thanh xuất hiện khi Hiếu vừa bứt tốc vượt lên trước hai chị.
+Nhìn xuống chân, nghĩ nhẩm, “Chắc hai chị đằng sau bảo mình là ‘tuột dây rồi em’ đây mà.”
+Mà quái! Chả thấy cái dây nào bị tuột cả.
+Ngoái đầu lại nhìn, nghe chị hỏi lại, “Bao cây rồi em?”
+“Dạ… 13 cây ạ.”
+
+Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất vả mà có nhiều trải nhiệm mới lạ ghê.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_7_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 07/08/2022" title="Tóm tắt kết quả chạy bộ ngày 07/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_08_08_2022"></a>Buổi tập ngày 08/08/2022
+
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_8_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 08/08/2022" title="Tóm tắt kết quả chạy bộ ngày 08/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_10_08_2022"></a>Buổi tập ngày 10/08/2022
+
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_10_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 10/08/2022" title="Tóm tắt kết quả chạy bộ ngày 10/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
