@@ -135,3 +135,22 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_10_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 10/08/2022" title="Tóm tắt kết quả chạy bộ ngày 10/08/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_23_08_2022"></a>Buổi tập ngày 23/08/2022
+
+Hai tuần trôi qua thật nhanh, trở lại đường chạy sau đợt nghỉ dài ngày vì đôi chân bất ổn.
+Bắt đầu với một bài tập nhẹ vào sáng sớm: *(3 phút chạy + 3 phút nghỉ) x 3 + 10 phút chạy*
+
+Không phải lần đầu tiên bị chấn thương, nhưng lại là lần đầu tiên phải "treo giò" lâu đến vậy.
+Đau vì chấn thương 1 phần, nhưng đau vì sự cố chấp thì phải gấp 10 lần.
+
+"Chưa bao giờ phải thay đổi lịch tập luyện mặc cho mọi chấn thương, thời gian biểu, hay thời tiết," HẮN đã từng tự hào nghĩ về bản thân như thế đấy.
+Nhưng có lẽ, lắng nghe cơ thể nhiều hơn, hành động thông minh hơn, duy trì tính kỷ luật, mới là cách để **theo đuổi mọi thứ một cách lâu bền**.
+
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_23_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/08/2022" title="Tóm tắt kết quả chạy bộ ngày 23/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
