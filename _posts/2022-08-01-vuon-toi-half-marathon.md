@@ -141,7 +141,7 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 # <a id="run_23_08_2022"></a>Buổi tập ngày 23/08/2022
 
 Hai tuần trôi qua thật nhanh, trở lại đường chạy sau đợt nghỉ dài ngày vì đôi chân bất ổn.
-Bắt đầu với một bài tập nhẹ vào sáng sớm: *(3 phút chạy + 3 phút nghỉ) x 3 + 10 phút chạy*
+Bắt đầu với một bài tập nhẹ vào sáng sớm: *(3 phút chạy + 3 phút đi bộ) x 3 + 10 phút chạy*
 
 Không phải lần đầu tiên bị chấn thương, nhưng lại là lần đầu tiên phải "treo giò" lâu đến vậy.
 Đau vì chấn thương 1 phần, nhưng đau vì sự cố chấp thì phải gấp 10 lần.
@@ -153,4 +153,31 @@ Nhưng có lẽ, lắng nghe cơ thể nhiều hơn, hành động thông minh h
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_23_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/08/2022" title="Tóm tắt kết quả chạy bộ ngày 23/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_24_08_2022"></a>Buổi tập ngày 24/08/2022
+
+Tiếp tục phục hồi sau chấn thương
+
+*(3 phút chạy + 1 phút đi bộ) x 2 + 2 phút đi bộ + (15 phút chạy + 3 phút đi bộ) x 2*
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_24_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 24/08/2022" title="Tóm tắt kết quả chạy bộ ngày 24/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_30_08_2022"></a>Buổi tập ngày 30/08/2022
+
+Hết chấn thương, trở lại chế độ tập luyện như bình thường
+
+*(5 phút chạy + 2 phút đi bộ) x 2 + 40 phút chạy + 10 phút chạy chậm*
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_30_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/08/2022" title="Tóm tắt kết quả chạy bộ ngày 30/08/2022" style="max-width: 95%; height: auto;"/></center>
+    <center><img src="/img/running/run_30_8_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/08/2022" title="Tóm tắt kết quả chạy bộ ngày 30/08/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
