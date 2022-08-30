@@ -141,7 +141,7 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 # <a id="run_23_08_2022"></a>Buổi tập ngày 23/08/2022
 
 Hai tuần trôi qua thật nhanh, trở lại đường chạy sau đợt nghỉ dài ngày vì đôi chân bất ổn.
-Bắt đầu với một bài tập nhẹ vào sáng sớm: *(3 phút chạy + 3 phút nghỉ) x 3 + 10 phút chạy*
+Bắt đầu với một bài tập nhẹ vào sáng sớm: *(3 phút chạy + 3 phút đi bộ) x 3 + 10 phút chạy*
 
 Không phải lần đầu tiên bị chấn thương, nhưng lại là lần đầu tiên phải "treo giò" lâu đến vậy.
 Đau vì chấn thương 1 phần, nhưng đau vì sự cố chấp thì phải gấp 10 lần.
