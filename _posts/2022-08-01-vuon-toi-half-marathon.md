@@ -64,6 +64,10 @@ Hiếu chạy nhẹ nhàng với những sải bước ngắn, ráng giữ cho n
 
 # <a id="run_04_08_2022"></a>Buổi tập ngày 04/08/2022
 
+Một ngày thật oi, chả có lấy chút gió.
+
+Thử tăng guồng chân với bước chạy ngắn hơn.
+Cảm giác ban đầu có hơi tức ngực; tuy nhiên, sau khi cơ thể đã quen với nhịp độ mới, cảm giác vận động có vẻ thoải mái hơn tương đối so với khi thực hiện thói quen chạy cũ.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -120,6 +124,7 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 
 # <a id="run_08_08_2022"></a>Buổi tập ngày 08/08/2022
 
+Chạy 45 phút với nhịp tim thấp.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -130,6 +135,7 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 
 # <a id="run_10_08_2022"></a>Buổi tập ngày 10/08/2022
 
+Bị chấn thương, đau cơ đùi trước và cơ hình lê.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -180,4 +186,19 @@ Hết chấn thương, trở lại chế độ tập luyện như bình thườn
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_30_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/08/2022" title="Tóm tắt kết quả chạy bộ ngày 30/08/2022" style="max-width: 95%; height: auto;"/></center>
     <center><img src="/img/running/run_30_8_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/08/2022" title="Tóm tắt kết quả chạy bộ ngày 30/08/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_01_09_2022"></a>Buổi tập ngày 01/09/2022
+
+Buổi chạy hôm nay phải kết thúc sớm hơn so với dự định, với một lý do *nhịp tim bị đẩy lên quá cao*.
+Có nhiều nguyên nhân dẫn đến việc này, nhưng có lẽ điểm bất thường đầu tiên mình nhận thấy trong buổi chạy ngày hôm nay đó chính là **MẤT NƯỚC**.
+
+Cả người vã mồ hôi như tắm chỉ trong vỏn vẹn 10 phút khởi động.
+Cơ thể khi bị mất nước sẽ khiến thể tích máu giảm, buộc trái tim phải đập nhanh hơn để đẩy được lượng máu cần thiết đi xa.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_1_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/09/2022" title="Tóm tắt kết quả chạy bộ ngày 01/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
