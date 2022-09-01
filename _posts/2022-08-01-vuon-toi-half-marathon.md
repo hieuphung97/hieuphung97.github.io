@@ -64,6 +64,10 @@ Hiếu chạy nhẹ nhàng với những sải bước ngắn, ráng giữ cho n
 
 # <a id="run_04_08_2022"></a>Buổi tập ngày 04/08/2022
 
+Một ngày thật oi, chả có lấy chút gió.
+
+Thử tăng guồng chân với bước chạy ngắn hơn.
+Cảm giác ban đầu có hơi tức ngực; tuy nhiên, sau khi cơ thể đã quen với nhịp độ mới, cảm giác vận động có vẻ thoải mái hơn tương đối so với khi thực hiện thói quen chạy cũ.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -120,6 +124,7 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 
 # <a id="run_08_08_2022"></a>Buổi tập ngày 08/08/2022
 
+Chạy 45 phút với nhịp tim thấp.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
@@ -130,6 +135,7 @@ Hoàn thành bài chạy trong bộ đồ sũng nước, 15 cây hôm nay vất 
 
 # <a id="run_10_08_2022"></a>Buổi tập ngày 10/08/2022
 
+Bị chấn thương, đau cơ đùi trước và cơ hình lê.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
