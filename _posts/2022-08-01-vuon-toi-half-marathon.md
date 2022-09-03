@@ -185,6 +185,7 @@ Hết chấn thương, trở lại chế độ tập luyện như bình thườn
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_30_8_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/08/2022" title="Tóm tắt kết quả chạy bộ ngày 30/08/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
     <center><img src="/img/running/run_30_8_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/08/2022" title="Tóm tắt kết quả chạy bộ ngày 30/08/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
 
@@ -201,4 +202,38 @@ Cơ thể khi bị mất nước sẽ khiến thể tích máu giảm, buộc tr
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_1_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/09/2022" title="Tóm tắt kết quả chạy bộ ngày 01/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_03_09_2022"></a>Buổi tập ngày 03/09/2022
+
+*Tôi nói gì khi nói về chạy bộ (What I Talk About When I Talk About Running, 走ることについて語るときに僕の語ること, Hashiru Koto ni Tsuite Kataru Toki ni Boku no Kataru Koto)* --- một tác phẩm đến từ tác giả của Rừng Nauy.
+
+Sau bài chạy nặng vào sáng sớm, tôi dành ra nguyên một ngày nghỉ lễ để cày hết tác phẩm.
+Phải nói là đã lâu rồi mới lại dành thời gian để đọc sách, không phải vì quá bận bịu với công việc và những thứ linh tinh, chỉ đơn giản là không có hứng, hay nói thẳng ra là lười đọc.
+
+Tôi vẫn thích lối hành văn của Murakami qua những tác phẩm của ông mà tôi đã từng đọc.
+Gọi là *những* nghe có vẻ nhiều, nhưng thực tình tôi mới đọc được có hai tác phẩm, tính cả quyển này nữa thì là ba.
+
+Khác với hai tác phẩm tôi đã được trước kia, *Tôi nói gì khi nói về chạy bộ* là một quyển tự truyện, nói về một phần cuộc đời của Murakami khi là một nhà văn chuyên nghiệp, kiêm một chân chạy marathon kỳ cựu.
+"Thú vị, đôi lúc bật cười," là cảm giác của tôi khi đọc tác phẩm này.
+
+Tôi tìm thấy những điểm chung và đâu đó một vài điểm khác biệt giữa câu chuyện chạy bộ của tôi với của tác giả.
+Khá bất ngờ khi Murakami, hay chí ít là dịch giả, cũng có đả động đến cụm từ "chạy tự động", thuật ngữ hay được tôi sử dụng khi viết lại về <a href="https://hieuphung97.com/2022/05/05/nhich-len-tren-tung-cay-so.html" target="_blank">cuộc hành trình chinh phục 10km</a> đầu tiên của mình.
+Nếu hình ảnh đầu tiên hiện ra trong đầu tôi khi cơ thể khát kiệt chính là những trái dừa, thì với Murakami, đó là những chai bia lạnh.
+
+Khác với tôi, Murakami tuyệt đối không bao giờ đi bộ trong lúc tập chạy hay thi đấu.
+Với ông, đã chạy là chỉ chạy, dù có phải lê lết, tuyệt đối không bao giờ đi bộ.
+
+Đọc những mẩu chuyện của Murakami, tôi phần nào hình dung ra những điều mà có lẽ sắp tới tôi sẽ được trải nghiệm.
+Và biết đâu, một ngày nào đó, chính tôi cũng có thể tự viết nên một cuốn tự truyện như vậy, với nhân vật chính là chính tôi --- một chuyên gia tin học, kiêm một chân chạy đường dài lão luyện.
+
+> "Đau đớn là không thể tránh khỏi. Đau khổ là tự nguyện. Giả dụ lúc đang chạy ta lại bắt đầu nghĩ, **Trời ơi đau quá, mình không chịu đựng nổi nữa rồi.** Cái phần **đau** là một thực tế không thể tránh khỏi, những ta có chịu đựng nổi nữa hay không là tùy thuộc vào chính người chạy. Điều này gần như gói gọn được khía cạnh quan trọng nhất của chạy marathon." --- Haruki Murakami
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_3_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 03/09/2022" title="Tóm tắt kết quả chạy bộ ngày 03/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_3_9_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 03/09/2022" title="Tóm tắt kết quả chạy bộ ngày 03/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
