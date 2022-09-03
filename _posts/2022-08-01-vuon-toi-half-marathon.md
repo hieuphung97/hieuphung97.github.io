@@ -229,7 +229,7 @@ Với ông, đã chạy là chỉ chạy, dù có phải lê lết, tuyệt đ�
 Đọc những mẩu chuyện của Murakami, tôi phần nào hình dung ra những điều mà có lẽ sắp tới tôi sẽ được trải nghiệm.
 Và biết đâu, một ngày nào đó, chính tôi cũng có thể tự viết nên một cuốn tự truyện như vậy, với nhân vật chính là chính tôi --- một chuyên gia tin học, kiêm một chân chạy đường dài lão luyện.
 
-> "Đau đớn là không thể tránh khỏi. Đau khổ là tự nguyện. Giả dụ lúc đang chạy ta lại bắt đầu nghĩ, **Trời ơi đau quá, mình không chịu đựng nổi nữa rồi.** Cái phần **đau** là một thực tế không thể tránh khỏi, những ta có chịu đựng nổi nữa hay không là tùy thuộc vào chính người chạy. Điều này gần như gói gọn được khía cạnh quan trọng nhất của chạy marathon." --- Haruki Murakami
+> "Đau đớn là không thể tránh khỏi. Đau khổ là tự nguyện. Giả dụ lúc đang chạy ta lại bắt đầu nghĩ, **Trời ơi đau quá, mình không chịu đựng nổi nữa rồi.** Cái phần **đau** là một thực tế không thể tránh khỏi, nhưng ta có chịu đựng nổi nữa hay không là tùy thuộc vào chính người chạy. Điều này gần như gói gọn được khía cạnh quan trọng nhất của chạy marathon." --- Haruki Murakami
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
