@@ -248,3 +248,46 @@ Chạy 45 phút với nhịp tim thấp.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_4_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 04/09/2022" title="Tóm tắt kết quả chạy bộ ngày 04/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_06_09_2022"></a>Buổi tập ngày 06/09/2022
+
+Chạy một tiếng, luyện sức bền.
+Thử tăng guồng chân lên thật cao, không gặp chấn thương gì đáng kể.
+Nhịp thở nhanh kèm với hơi thở nông, mồ hôi ra ít và không có cảm giác khát nước.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_6_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/09/2022" title="Tóm tắt kết quả chạy bộ ngày 06/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_07_09_2022"></a>Buổi tập ngày 07/09/2022
+
+Chạy một tiếng, luyện sức bền.
+Vẫn giữ guồng chân nhanh, sải chân ngắn và bàn chân nâng thấp.
+
+Chạy được già nửa bài thì gặp một anh trai cyclist mặc đồ bó sát, trông phong thái toát lên vẻ chuyên nghiệp.
+Gặp anh ở cổng công viên Yên Sở, chạy vượt qua anh để bắt đầu cho vòng chạy thứ hai.
+Anh đi theo cùng một tiếng gọi nhẹ, "Em trai ơi chụp anh cái ảnh với."
+Bấm máy vài tấm ảnh cho anh cạnh cái trạm sạc xe điện của Vinfast, tiếp tục hoàn thành nốt bài tập của buổi chạy ngày hôm nay.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_7_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 07/09/2022" title="Tóm tắt kết quả chạy bộ ngày 07/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_09_09_2022"></a>Buổi tập ngày 09/09/2022
+
+Chạy một tiếng, luyện sức bền.
+Đau cơ đùi sau do phải làm quen với tốc độ guồng chân mới.
+Đau từ lúc xuất phát và bắt đầu cảm thấy dễ chịu hơn kể từ phút thứ 40.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_9_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 09/09/2022" title="Tóm tắt kết quả chạy bộ ngày 09/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
