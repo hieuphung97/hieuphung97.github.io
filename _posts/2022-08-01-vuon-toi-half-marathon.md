@@ -298,12 +298,12 @@ Hôm nay ngày cuối tuần, rủng rỉnh làm một bài *Long Run* kéo dài
 
 Vẫn với lộ trình cũ, Hiếu xuất phát từ con đường Trần Thủ Độ để tiến ra công viên Yên Sở.
 Gần đến được cổng công viên, tôi chợt nhận ra một dáng chạy thật quen, chính là của chị gái mà dạo gần đây tôi có gặp trong những buổi chạy.
-Chưa bao giờ hai chị em nói chuyện với nhau, nhưng hôm nay, bất ngờ, chị hỏi, "Em đang chạy vào công viên à?" cổ chị hơi xoay về phía đó nhằm ra hiệu cho tôi.
+Chưa bao giờ hai chị em nói chuyện với nhau, nhưng hôm nay, bất ngờ, chị hỏi, "Em đang chạy vào công viên à?" cổ chị hơi xoay về phía đó nhằm ra hiệu cho tôi.<br/>
 "Dạ vâng, em chuẩn bị tiến vào công viên," Hiếu đáp.
 
-Vào đến công viên, tôi chạy cùng chị, hai chị em vừa chạy vừa nói chuyện.
-"... Em chạy lâu chưa? Sao cứ nhìn vào đồng hồ nhiều thế?"
-"... Chị không đặt ra mục tiêu như em, nào là 10 cây, 21 cây, rồi thì 42 cây; chị chỉ chạy đều đặn 10 cây mỗi ngày thôi, thi thoảng thì có tăng lên 15 hay gì đó."
+Vào đến công viên, tôi chạy cùng chị, hai chị em vừa chạy vừa nói chuyện.<br/>
+"... Em chạy lâu chưa? Sao cứ nhìn vào đồng hồ nhiều thế?"<br/>
+"... Chị không đặt ra mục tiêu như em, nào là 10 cây, 21 cây, rồi thì 42 cây; chị chỉ chạy đều đặn 10 cây mỗi ngày thôi, thi thoảng thì có tăng lên 15 hay gì đó."<br/>
 "... Đúng là thanh niên, trẻ, chạy khỏe."
 
 Chạy được một lúc, chị chuyển hướng nhập đoàn với ba chân chạy trông có vẻ kỳ cựu.
@@ -315,9 +315,9 @@ Nhưng vẫn dễ hơn nhiều so với những gì tôi vẫn hay tưởng tư�
 Có lẽ, hai lá phổi của tôi đã bắt đầu "cứng cáp" hơn sau những tháng ngày gắng sức phồng xẹp.
 
 Hoàn thành một vòng chạy dài vắt vẻo, tôi gặp lại chị.
-Lúc này tôi đang cuốc bộ nghỉ ngơi đợi nhịp tim giảm, chị thì đang chạy những trăm mét cuối cùng.
-"Chạy tiếp đi em."
-"Dạ... vâng," tôi bất ngờ khi nghe thấy tiếng chị gọi từ đằng sau.
+Lúc này tôi đang cuốc bộ nghỉ ngơi đợi nhịp tim giảm, chị thì đang chạy những trăm mét cuối cùng.<br/>
+"Chạy tiếp đi em."<br/>
+"Dạ... vâng," tôi bất ngờ khi nghe thấy tiếng chị gọi từ đằng sau.<br/>
 Chưa kịp nói gì thêm, chị nhanh chóng vượt lên và phóng đi, cách tôi chừng chục mét.
 Rồi chị giảm tốc và bắt đầu đi bộ.
 Chị hoàn thành bài chạy cũng là vừa đúng lúc hết thời gian giải lao, Hiếu lại tăng tốc, bắt đầu vào vòng chạy thứ hai.
@@ -328,11 +328,11 @@ Hai anh chạy cùng nhau, một anh với cặp kính bóng loáng giơ tay th�
 Tôi mỉm cười, cũng cố tạo dáng tay giống anh, đáp lại.
 Tiếp tục bài chạy, tôi còn gặp lại hai anh thêm hai lần nữa trước khi tiến vào đoạn chạy chậm, mỗi lần như thế, chúng tôi lại ra hiệu chào nhau, bằng tay, và bằng nụ cười.
 
-Lê đôi chân đã mỏi nhừ hướng ra phía cổng, tôi lại có thêm một cuộc gặp gỡ nữa.
-"Em chạy bao nhiêu cây?" chị hỏi.
-"Dạ, chắc đâu đấy gần 20 ạ."
-"Ồ, thế chắc phải chạy từ lâu rồi nhỉ?"
-"Em chạy vắt lưỡi cũng được gần hai tiếng rồi chị ạ 🤣 ."
+Lê đôi chân đã mỏi nhừ hướng ra phía cổng, tôi lại có thêm một cuộc gặp gỡ nữa.<br/>
+"Em chạy bao nhiêu cây?" chị hỏi.<br/>
+"Dạ, chắc đâu đấy gần 20 ạ."<br/>
+"Ồ, thế chắc phải chạy từ lâu rồi nhỉ?"<br/>
+"Em chạy vắt lưỡi cũng được gần hai tiếng rồi chị ạ 🤣 ."<br/>
 Chị cười.
 
 Kết thúc bài chạy đầy thử thách một cách an toàn, tôi rảo bước về nhà.
@@ -341,7 +341,7 @@ Bài chạy hôm nay thật dài thật, một bình nước 250ml là không đ
 Giải tỏa được cơn khát bủa vây suốt những ki-lô-mét cuối, tôi cứ thế ừng ực ừng ực hết nguyên cả chai. Quá đã!
 
 Dừng lại một chút, đặt chai nước xuống, giãn cơ, về đến nhà cất giày, tắm rửa, rồi ăn sáng.
-Hôm nay mẹ cho tôi ăn bánh 🥮.
+Hôm nay mẹ cho tôi ăn bánh 🥮 .
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
