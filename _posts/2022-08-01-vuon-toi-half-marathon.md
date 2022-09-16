@@ -349,3 +349,25 @@ Hôm nay mẹ cho tôi ăn bánh 🥮 .
     <br/>
     <center><img src="/img/running/run_11_9_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/09/2022" title="Tóm tắt kết quả chạy bộ ngày 11/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_12_09_2022"></a>Buổi tập ngày 12/09/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_12_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 12/09/2022" title="Tóm tắt kết quả chạy bộ ngày 12/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_14_09_2022"></a>Buổi tập ngày 14/09/2022
+
+Luyện sức bền trong 70 phút.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_14_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 14/09/2022" title="Tóm tắt kết quả chạy bộ ngày 14/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
