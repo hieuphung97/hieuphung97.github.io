@@ -371,3 +371,54 @@ Luyện sức bền trong 70 phút.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_14_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 14/09/2022" title="Tóm tắt kết quả chạy bộ ngày 14/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_17_09_2022"></a>Buổi tập ngày 17/09/2022
+
+Chào buổi sáng Hải Phòng với một cơn mưa to, sau giấc ngủ khò khò trong cơn sấm chớp, Hiếu bật dậy xỏ giày chạy xuống sảnh khách sạn.
+Lộp độp... lộp độp... mọi người ngán ngẩm nhìn ra con đường ướt nhẹp.
+
+Chả ngại mưa, cũng không ngại gió, chỉ lo có sét đánh bên tai; đoàn chạy hôm nay đã không thể thực hiện được bài Long Run đúng như kế hoạch.
+Thôi đành chạy muộn sau khi mưa đã ngớt với một bài Easy.
+
+Vâng!, E-A-S-Y, chính xác đến từng chữ.
+Dưng kia mà đấy là với sức của các anh, của các chị.
+Chứ như của tôi, một thằng cu lom dom còi nhom mới tập chạy, từ này dùng có vẻ không đúng cho lắm.
+
+Xuất phát từ khách sạn, hướng ra hồ Tam Bạc, mấy anh em vung chân trên nền nhựa đường ở đoạn Cầu Đất rẽ ra đường Quang Trung.
+Vẫn theo kịp tốc độ của các anh sau vòng hồ đầu tiên, Hiếu bắt đầu bị "lạc" khỏi đoàn chạy phải tầm vài trăm mét vì một vài lý do đặc biệt.<br/>
+"Các anh đã chạy khá xa mình rồi, nên làm sao đây? Chạy ngược lại để bắt đầu vòng mới? Hay đơn độc tự hoàn thành bài chạy?"<br/>
+Tôi đã chọn CHẠY ĐUỔI!
+
+Nhấn ga, tăng tốc, chạy như chưa bao giờ được chạy, Hiếu vươn mắt cố gắng định vị vị trí của những người anh đã mất hút vào làn mưa rả rích.
+Gồng mình với Pace 5:10/km, Hiếu chạy với một cách cẩn thận, lướt đi trên nền gạch lát trơn trượt.
+
+Chạy mờ cả mắt, cuối cùng tôi cũng nhìn thấy bóng dáng của các anh, những người khổng lồ trong suy nghĩ của tôi.
+Khoảng thời gian gần đuổi kịp các anh chính là lúc căng thẳng nhất, đơn giản là vì tâm lý sắp "cán đích".
+Một cảm giác mà chỉ cần chạy nhanh thêm chút nữa thôi là có thể đạt được mục đích tại thời điểm đấy, đuổi kịp mọi người.
+Và thế là nhịp tim cứ cao vống lên, do tăng tốc và cảm giác hồi hộp.
+
+Cuối cùng cũng đến nơi, Hiếu tiếp tục chạy cùng với cả đoàn sau khi được các anh hãm tốc trong chốc lát để "Cho thằng em nó còn hạ nhịp."<br/>
+1...2...1...2...
+
+Chạy thêm được phần tứ vòng hồ, tôi phải bỏ vòng, quay đầu chạy theo hướng ngược lại để có thể cùng với các anh chạy vòng tiếp theo.
+Tôi cần nghỉ ngơi để nhịp tim có thể ổn định trở lại.
+
+Sau một hồi chạy chậm, cuối cùng cũng thấy được các anh, Hiếu hồ hởi bẻ lái 90 độ để bắt đầu nhập đoàn.<br/>
+Oạch!!! Hiếu miết mông và cặp giò trên nền đất ướt.<br/>
+"Thế quái nào lại quên được nhỉ, rõ ràng đã biết là đường trơn hè trượt rồi mà sao vẫn cứ hành động hấp tấp..." <br/>
+Khoảnh khắc trông thấy cảnh đấy, có lẽ các anh vừa buồn cười, vừa lo cho thằng em bị chấn thương chân cẳng.
+May thay, khi đó tôi chạy chậm, không xảy ra vấn đề gì quá nghiêm trọng.
+Vẫn đứng lên như bình thường, cùng mọi người hoàn thành bài chạy.
+
+Vậy là cũng sang tiết mục Food Tour, làm liền một bát bánh đa cua Hải Phòng, tôi cùng với mọi người tận hưởng nốt chuyến đi chơi kỳ thú.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_17_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 17/09/2022" title="Tóm tắt kết quả chạy bộ ngày 17/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_17_9_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 17/09/2022" title="Tóm tắt kết quả chạy bộ ngày 17/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_17_9_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 17/09/2022" title="Tóm tắt kết quả chạy bộ ngày 17/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
