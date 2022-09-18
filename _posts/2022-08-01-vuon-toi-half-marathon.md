@@ -422,3 +422,22 @@ Vậy là cũng sang tiết mục Food Tour, làm liền một bát bánh đa cu
     <br/>
     <center><img src="/img/running/run_17_9_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 17/09/2022" title="Tóm tắt kết quả chạy bộ ngày 17/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_18_09_2022"></a>Buổi tập ngày 18/09/2022
+
+Buổi Long Run chạy bù cho hôm thứ 7 vừa rồi (17/09/2022),<br/>
+Lần đầu chạy buổi chiều ở công viên Yên Sở,<br/>
+Cái nóng vắt hết nước, mệt mỏi thì bủa vây.<br/>
+
+Hôm nay tôi đã thử sửa dáng chạy,<br/>
+Thật là khó ghê, với thói quen đã có,<br/>
+Biến bở mông con vịt thành dáng đứng thẳng lưng.
+
+
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_18_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 18/09/2022" title="Tóm tắt kết quả chạy bộ ngày 18/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
