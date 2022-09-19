@@ -433,9 +433,7 @@ Cái nóng vắt hết nước, mệt mỏi thì bủa vây.<br/>
 
 Hôm nay tôi đã thử sửa dáng chạy,<br/>
 Thật là khó ghê, với thói quen đã có,<br/>
-Biến bở mông con vịt thành dáng đứng thẳng lưng.
-
-
+Biến bờ mông con vịt thành dáng đứng thẳng lưng.
 
 <details>
 <summary><i>Nhấn để mở rộng</i></summary>
