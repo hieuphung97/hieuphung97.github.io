@@ -439,3 +439,14 @@ Biến bờ mông con vịt thành dáng đứng thẳng lưng.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_18_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 18/09/2022" title="Tóm tắt kết quả chạy bộ ngày 18/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_20_09_2022"></a>Buổi tập ngày 20/09/2022
+
+Luyện sức bền trong 70 phút.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_20_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 20/09/2022" title="Tóm tắt kết quả chạy bộ ngày 20/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
