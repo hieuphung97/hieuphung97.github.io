@@ -450,3 +450,30 @@ Luyện sức bền trong 70 phút.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_20_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 20/09/2022" title="Tóm tắt kết quả chạy bộ ngày 20/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_22_09_2022"></a>Buổi tập ngày 22/09/2022
+
+Chạy cùng những hạt mưa li ti từ sáng sớm khi trời vẫn còn tối mịt.
+Hôm nay là một bài chạy nhanh.
+
+Sau khi đẩy nhịp tim lên cao với 16 phút tăng tốc, tôi chuyển sang vừa chạy nhanh kết hợp với đi bộ trong bốn lượt.
+Hai lượt đầu thấy tương đối dễ dàng, lượt thứ ba thì thực sự thử thách, đến lượt cuối thì bắt đầu cảm thấy buồn nôn.
+Cảm giác này có lẽ đến từ việc chạy nhanh và trời lạnh.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_22_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 22/09/2022" title="Tóm tắt kết quả chạy bộ ngày 22/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_23_09_2022"></a>Buổi tập ngày 23/09/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_23_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/09/2022" title="Tóm tắt kết quả chạy bộ ngày 23/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
