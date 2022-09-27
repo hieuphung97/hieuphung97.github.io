@@ -537,3 +537,16 @@ Và... *hôm nay, tôi đã cán đích đến hai lần.*
     <br/>
     <center><img src="/img/running/run_25_9_2022_8.png" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_26_09_2022"></a>Buổi tập ngày 26/09/2022
+
+Hồi phục hậu giải chạy (Hanoi Marathon Techcombank 2022), chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_26_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 26/09/2022" title="Tóm tắt kết quả chạy bộ ngày 26/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
