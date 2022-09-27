@@ -477,3 +477,76 @@ Chạy 50 phút với tốc độ vừa phải.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_23_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/09/2022" title="Tóm tắt kết quả chạy bộ ngày 23/09/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_25_09_2022"></a>Hanoi Marathon Techcombank 2022
+
+<div style="text-align: right"><i>Long Biên, ngày 25 tháng 9 năm 2022</i></div>
+
+Có lẽ khác với đại đa số các vận động viên khác, cảm giác của tôi trong lần đầu tiên tham gia chạy giải thật đặc biệt, đó là BUỒN.
+Thực sự rất rất buồn, nỗi buồn đi nhẹ của tôi lên đến đỉnh điểm khi ban tổ chức báo rằng khu vực thi đấu không được bố trí nhà vệ sinh như tôi đã nghĩ 🥲 .
+Lặn lội cuốc bộ sang Vincom Plaza Long Biên gần đó, chui xuống hầm gửi xe xin đi ké phòng đặc biệt, chỉ dành cho nhân viên, không phận sự miễn vào.
+
+Đứng ở vạch xuất phát, tôi bị choáng ngợp với hình ảnh đông đúc và bầu không khí sục sôi của các vận động viên.
+Mỗi người một vẻ, với đủ mọi vóc dáng và phong cách thời trang.
+
+Quãng đường 1km đầu tiên thật quả là đông đúc, đoàn người cứ nhung nhúc bò lên phía trước một cách thật từ tốn.
+Anh này chạy khởi động, chị kia chụp Selfie, đôi khi thì là một ai đấy vụt lên ôm cua đánh võng, cố len thân vượt ra khỏi đoàn người tấp nập.
+
+Sau một đoạn đường khá dài, tôi bắt kịp một tuyển thủ nữ diện một bộ đồ phải nói là trông vô cùng chuyên nghiệp.<br/>
+“Em ơi, được bao nhiêu cây rồi em?” chị nghiêng cổ sang hỏi tôi.<br/>
+Tôi, vẫn đang tập chung chuyên môn, cố giữ cho nhịp thở đều, "Dạ... tầm 5km... gì... đấy chị ạ..."<br/>
+Giọng tôi có lẽ hơi nhỏ nên phải nói đi nói lại vài ba lần thì chị mới nghe thấy.<br/>
+"Cảm ơn em!"
+
+"Bây giờ mới đến cây thứ 4 em ơi..." tiếng nói vọng lên chỗ tôi của chị gái lúc nãy cách tôi tầm vài chục mét.<br/>
+Khoảnh khắc đấy, một cảm giác có chút tiêu cực xuất hiện trong tôi, cố chiếm lấy tâm trí tôi.
+Tôi chợt nghĩ, "Ôi thôi bỏ m* nó rồi, sao hôm nay đường chạy nó lại có thể dài hơn mọi khi được nhỉ?"<br/>
+Cố giữ cho nhịp thở và tốc độ vung chân ổn định, làm chủ tình hình, tôi tiếp tục bon bon tiến lên phía trước.
+
+Nửa đoạn đường còn lại của chặng đua, tôi vượt hết chân chạy này đến tay đua khác.
+Không thể tăng tốc như đã định, đơn giản vì tốc độ được tôi duy trì ngay từ đầu cuộc đua đến giờ đã vượt quá tốc độ tối đa mà tôi dự kiến.
+
+Những trăm mét cuối của chặng đua đối với tôi là khoảng thời gian tuyệt với nhất.
+Vì đó là lúc tôi nhìn thấy vạch đích, cũng là thời điểm tôi sẽ bung hết chỗ sức lực còn lại của mình.
+Như một thằng bị chó đuổi, tôi há m*m há miệng, vít ga bứt tốc, cố gắng đẩy bản thân lên đến cực hạn.
+Chạy thật nhanh với Pace 3:28 phút/km, trong tiếng hò reo của mọi người, chả mấy chốc tôi đã vượt cái cổng màu đỏ, cái mà sau đấy tôi mới biết là cóc phải cái vạch đích mà tôi đang hướng đến.
+
+Vừa đi bộ vừa thở như một thằng cu vừa khỏi thoát đuối nước, tôi hướng ánh mắt ra phía trước, nhìn vạch đích chỉ còn cách đó tầm vài trăm mét.<br/>
+"Đấy, chạy cho cố vào, rồi hóa ra cái vạch đích nó ở tít trên kia kìa," các anh chị vừa cười vừa nói, không phải nói tôi, mà là chính các anh chị.
+
+Thôi thì đã không còn gì để mất, tôi van xin đôi chân đã kêu gào vì phải làm việc quá sức, hít thở hít thở, lại tăng tốc độ để cán đích một cách thật vinh quang, một lần nữa.<br/>
+Và... *hôm nay, tôi đã cán đích đến hai lần.*
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_25_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_4.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_5.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_6.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_7.jpg" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_25_9_2022_8.png" alt="Tóm tắt kết quả chạy bộ ngày 25/09/2022" title="Tóm tắt kết quả chạy bộ ngày 25/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_26_09_2022"></a>Buổi tập ngày 26/09/2022
+
+Hồi phục hậu giải chạy (Hanoi Marathon Techcombank 2022), chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_26_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 26/09/2022" title="Tóm tắt kết quả chạy bộ ngày 26/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
