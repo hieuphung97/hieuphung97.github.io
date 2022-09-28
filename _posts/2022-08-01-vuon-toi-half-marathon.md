@@ -550,3 +550,16 @@ Hồi phục hậu giải chạy (Hanoi Marathon Techcombank 2022), chạy 50 ph
 </details>
 
 ---
+
+# <a id="run_28_09_2022"></a>Buổi tập ngày 28/09/2022
+
+Luyện sức bền trong 70 phút.
+Cơ cẳng chân khá mỏi do chưa kịp hồi phục sau bài tập bổ trợ.
+20 phút đầu bài chạy cảm giác khá vất vả.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_28_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 28/09/2022" title="Tóm tắt kết quả chạy bộ ngày 28/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
