@@ -575,3 +575,26 @@ Cơ cẳng chân trong trạng thái mỏi trong suốt bài chạy.
 </details>
 
 ---
+
+# <a id="run_01_10_2022"></a>Buổi tập ngày 01/10/2022
+
+Bứt phá giới hạn của đôi chân, tiến gần hơn đến cự ly 21km
+
+Chạy được 50 phút, tôi lục túi lấy ra một gói Gel năng lượng.
+Lần đầu sử dụng, thứ sền sệt này có hơi khó nuốt hơn so với tôi nghĩ, nhưng nó ngọt, không ngọt đậm như kẹo ngậm.
+Có lẽ bài tập hôm nay không cần thiết phải sử dụng đến nó, nhưng tôi muốn thử, thử xem phản ứng của cơ thể tôi với nguồn dinh dưỡng này như thế nào.
+Thật may mắn, không hề bị đau bụng hay có dấu hiệu của nôn mử*.
+
+Đến phút thứ 70, trời bắt đầu xuất hiện những cơn mưa thật lớn.
+Mưa to, dòng nước chảy cuốn theo mồ hôi nơi bờ môi chảy vào miệng thật mặn.
+Buổi chiều muộn ở công viên Yên Sở thật u ám, không có lấy một bóng đèn điện dọc đường tôi chạy.
+Mưa mờ hết kính, hàng cây rậm rạp che khuất trời mây.
+Chạy một cách nặng nhọc trong đôi giày úng nước, tôi căng mắt tìm đường đi trong bóng tối mờ mịt.
+
+Chạy liên tục trong 2 tiếng không nghỉ, đây là mục tiêu của ngày hôm nay;
+và tôi đã làm được, trong tình trạng căng cơ cẳng khi mà cơ thể vẫn còn sung sức.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_1_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/10/2022" title="Tóm tắt kết quả chạy bộ ngày 01/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
