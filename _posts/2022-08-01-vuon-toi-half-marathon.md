@@ -563,3 +563,15 @@ Cơ cẳng chân khá mỏi do chưa kịp hồi phục sau bài tập bổ tr�
 </details>
 
 ---
+
+# <a id="run_29_09_2022"></a>Buổi tập ngày 29/09/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+Cơ cẳng chân trong trạng thái mỏi trong suốt bài chạy.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_29_9_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 29/09/2022" title="Tóm tắt kết quả chạy bộ ngày 29/09/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
