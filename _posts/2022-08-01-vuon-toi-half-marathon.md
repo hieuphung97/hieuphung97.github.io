@@ -598,3 +598,12 @@ và tôi đã làm được, trong tình trạng căng cơ cẳng khi mà cơ th
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_1_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/10/2022" title="Tóm tắt kết quả chạy bộ ngày 01/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+# <a id="run_02_10_2022"></a>Buổi tập ngày 02/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_2_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 02/10/2022" title="Tóm tắt kết quả chạy bộ ngày 02/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
