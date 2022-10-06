@@ -620,3 +620,29 @@ Chạy Tempo để nâng ngưỡng chịu đựng acid lactic.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_4_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 04/10/2022" title="Tóm tắt kết quả chạy bộ ngày 04/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_05_10_2022"></a>Buổi tập ngày 05/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+Ống đồng chân phải đau nhói.
+Buộc phải dừng chạy sau 13 phút, tiếp tục đi bộ thêm 17 phút.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_5_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 05/10/2022" title="Tóm tắt kết quả chạy bộ ngày 05/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_06_10_2022"></a>Buổi tập ngày 06/10/2022
+
+Luyện sức bền trong 70 phút.
+Buổi chạy đầu tiên đồng hành với một đôi giày được gán nhãn zero-drop.
+Ống đồng chân phải vẫn đau; tuy nhiên, đã có thể bắt đầu tăng tốc và chạy bình thường kể từ phút thứ 30.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_6_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/10/2022" title="Tóm tắt kết quả chạy bộ ngày 06/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
