@@ -646,3 +646,15 @@ Buổi chạy đầu tiên đồng hành với một đôi giày được gán n
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_6_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/10/2022" title="Tóm tắt kết quả chạy bộ ngày 06/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_08_10_2022"></a>Buổi tập ngày 08/10/2022
+
+Cảm giác khát nước đến ít hơn khi chạy những cự ly dài.
+Vùng da xung quanh những vị trí tiếp xúc với quần bị trầy xước ngày càng nhiều; cần sử dụng những loại quần phù hợp hơn.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_8_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 08/10/2022" title="Tóm tắt kết quả chạy bộ ngày 08/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
