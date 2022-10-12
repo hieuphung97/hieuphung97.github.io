@@ -669,3 +669,28 @@ Chạy 50 phút với tốc độ vừa phải.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_9_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 09/10/2022" title="Tóm tắt kết quả chạy bộ ngày 09/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_11_10_2022"></a>Buổi tập ngày 11/10/2022
+
+Chân tôi vẫn đau, y như những hôm trước.
+Cơn đau ập đến kể từ lúc tôi bước chân ra khỏi cửa.
+Đi lại có chút đau, khởi động mạnh cũng đau.
+
+Hôm nay là một bài Tempo khá nặng.
+Trong 8 phút đầu chạy khởi động, trong đầu tôi đã nhen nhóm một ý nghĩ: "Thôi, hay là hôm nay bỏ bài?"<br/>
+"Nếu một lúc nữa mà không nhấc nổi chân lên nữa, tôi sẽ quay về nhà tắm rửa, chuẩn bị cho công việc buổi sáng," tôi đã nghĩ như vậy.<br/>
+Chỉ cần có một lý do là tôi sẽ dừng lại.
+Tôi đợi, nhưng, lý do đó đã không đến.
+
+Theo quán tính của đôi chân, tôi tiếp tục chạy đến hết bài.
+Tiết trời sang đông với những đợt gió mùa đầu tiên se se lạnh, sáng hôm nay bầu trời thật đẹp.
+Không khí khô, tiết trời mát, tôi chạy khỏe hơn hẳn chính tôi của tuần trước đó.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_11_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/10/2022" title="Tóm tắt kết quả chạy bộ ngày 11/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_11_10_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/10/2022" title="Tóm tắt kết quả chạy bộ ngày 11/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
