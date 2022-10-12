@@ -680,7 +680,7 @@ Cơn đau ập đến kể từ lúc tôi bước chân ra khỏi cửa.
 
 Hôm nay là một bài Tempo khá nặng.
 Trong 8 phút đầu chạy khởi động, trong đầu tôi đã nhen nhóm một ý nghĩ: "Thôi, hay là hôm nay bỏ bài?"<br/>
-"Nếu một lúc nữa mà không nhấc nổi chân lên nữa, tôi sẽ quay về nhà tắm rửa, chuẩn bị cho công việc buổi sáng," tôi đã nghĩ như vậy.<br/>
+"Nếu một lúc nữa mà không nhấc nổi chân lên nữa, mình sẽ quay về nhà tắm rửa, chuẩn bị cho công việc buổi sáng," tôi đã nghĩ như vậy.<br/>
 Chỉ cần có một lý do là tôi sẽ dừng lại.
 Tôi đợi, nhưng, lý do đó đã không đến.
 
@@ -693,4 +693,15 @@ Không khí khô, tiết trời mát, tôi chạy khỏe hơn hẳn chính tôi 
     <center><img src="/img/running/run_11_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/10/2022" title="Tóm tắt kết quả chạy bộ ngày 11/10/2022" style="max-width: 95%; height: auto;"/></center>
     <br/>
     <center><img src="/img/running/run_11_10_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 11/10/2022" title="Tóm tắt kết quả chạy bộ ngày 11/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_12_10_2022"></a>Buổi tập ngày 12/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_12_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 12/10/2022" title="Tóm tắt kết quả chạy bộ ngày 12/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
