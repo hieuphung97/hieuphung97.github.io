@@ -705,3 +705,29 @@ Chạy 50 phút với tốc độ vừa phải.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_12_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 12/10/2022" title="Tóm tắt kết quả chạy bộ ngày 12/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_14_10_2022"></a>Buổi tập ngày 14/10/2022
+
+Luyện sức bền trong 70 phút.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_14_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 14/10/2022" title="Tóm tắt kết quả chạy bộ ngày 14/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_15_10_2022"></a>Buổi tập ngày 15/10/2022
+
+Chạy dọc đoạn đường đê ven hồ Đồng Mô, chúng tôi đến với biệt thự Phan Thị, nơi từng là phim trường của bộ phim "Người phán xử".
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_15_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 15/10/2022" title="Tóm tắt kết quả chạy bộ ngày 15/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_15_10_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 15/10/2022" title="Tóm tắt kết quả chạy bộ ngày 15/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_15_10_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 15/10/2022" title="Tóm tắt kết quả chạy bộ ngày 15/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
