@@ -731,3 +731,36 @@ Chạy dọc đoạn đường đê ven hồ Đồng Mô, chúng tôi đến v�
     <br/>
     <center><img src="/img/running/run_15_10_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 15/10/2022" title="Tóm tắt kết quả chạy bộ ngày 15/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_19_10_2022"></a>Buổi tập ngày 19/10/2022
+
+Chạy nhanh-chậm liền một mạch không đi bộ, đôi chân đạt đến ngưỡng chịu đựng mới.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_19_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 19/10/2022" title="Tóm tắt kết quả chạy bộ ngày 19/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_20_10_2022"></a>Buổi tập ngày 20/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_20_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 20/10/2022" title="Tóm tắt kết quả chạy bộ ngày 20/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_21_10_2022"></a>Buổi tập ngày 21/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_21_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 21/10/2022" title="Tóm tắt kết quả chạy bộ ngày 21/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
