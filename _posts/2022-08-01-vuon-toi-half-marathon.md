@@ -764,3 +764,75 @@ Chạy 50 phút với tốc độ vừa phải.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_21_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 21/10/2022" title="Tóm tắt kết quả chạy bộ ngày 21/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_23_10_2022"></a>Buổi tập ngày 23/10/2022
+
+Đặt chân đến Ninh Bình vào một buổi chiều nắng, tôi mượn một chiếc xe đạp để đi một dọc Tràng An.
+Gần chục năm không động đến xe đạp, chiếc xe bon bon trên dải đường thật nhẹ.
+Tràng An mở ra trước mắt với những vách núi dựng đứng cùng những chú dê xa xa.
+Tay nắm lấy ghi đông mà cứ ngỡ như đang ngồi xe máy, tôi ghi lại những khung hình nơi đây vào bộ nhớ chật hẹp của mình;
+trước khi quay trở về khách sạn, ăn uống, tắm rửa, và nghỉ ngơi để chuẩn bị cho buổi chạy vào ngay sáng hôm sau.
+
+Quả là một đêm không mấy ngon giấc bên chiếc mũi sưng ngạt, tôi mở mắt vào đúng 4h sáng như đã hẹn với chiếc đồng hồ báo thức.
+Tôi uống nước, lên đồ, xuống sân, đợi mọi người để cùng nhau di chuyển ra điểm tập trung trước khi mặt trời mọc.
+Trời thật tối và có chút se lạnh, chúng tôi bắt đầu với tiết mục chạy khởi động để làm nóng cơ thể.
+
+Sau màn khởi động chạy quá tốc độ vì mải đuổi theo các anh chị, tôi bước vào phần chính của bài tập.
+Đến đây, nhóm chạy được tách ra làm hai, làm ba, có khi là bốn cụm, tôi được chạy cùng với chị Lan Anh và Coach.
+Hôm nay tôi chạy chậm hơn một chút so với tốc độ bài chạy; dẫu vậy, tôi vẫn cảm thấy mệt, hẳn là do một buổi tối lạ giường.
+Đồng hồ thấy vậy thì cứ kêu thật lực, như thể đang bảo: "Mà* lo mà chạy phiên phiến cái chân lên cho ta*!"
+Mặc kệ, tôi tiếp tục trò chuyện với các tiền bối trong khi vẫn để cho cơ thể di chuyển ở một tốc độ vừa phải.
+
+Nửa chặng đường đầu tiên thật nhẹ nhàng biết bao, chúng tôi có thêm anh Phúc, có thêm chị Yến, cuộc trò chuyện thật là sôi nổi.
+Cho đến khi từng người kết thúc bài chạy, chỉ còn lại mỗi tôi và vận động viên chạy trail kỳ cựu Lan Anh chạy nốt những ki-lô-mét cuối.
+Người đã thấm mệt, hai chị em chỉ còn biết động viên nhau mà chạy tiếp.<br/>
+"Còn... 40 phút... nữa chị... ạ.... Còn 30... phút nữa... thôi...."<br/>
+*Nhớ lại thì, thực ra lúc đó chỉ là tôi đang tự động viên tôi, chứ những bước chân của chị Lan Anh dường như vẫn rất lực.*
+Kết thúc buổi Long Run cũng là lúc mặt trời lên cao, chúng tôi dành ra một chút thời gian để hóa thân thành những người mẫu quảng cáo cho các thương hiệu quần áo thể thao và giày chạy bộ.
+
+Lên xe quay về khách sạn, tắm rửa gột sạch lớp mồ hôi, thu dọn đồ đạc balo hành lý, chúng tôi lại lên xe đi tìm điểm ăn sáng.
+Nào là bún cá, nào là quán lươn, rẽ bên trái, cua bên phải, chúng tôi vẫn không thể đến được điểm cần đến.
+Thật là một bữa sáng bất ổn nhưng cũng đầy những tiếng cười.
+
+Ăn sáng xong, quay trở lại xe, buồn ngủ, tôi lim dim nghĩ về đĩa thịt dê mình sẽ chén vào trưa nay...
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_23_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_10_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_10_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_10_2022_4.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_10_2022_5.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_10_2022_6.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_23_10_2022_7.jpg" alt="Tóm tắt kết quả chạy bộ ngày 23/10/2022" title="Tóm tắt kết quả chạy bộ ngày 23/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_24_10_2022"></a>Buổi tập ngày 24/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_24_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 24/10/2022" title="Tóm tắt kết quả chạy bộ ngày 24/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_26_10_2022"></a>Buổi tập ngày 26/10/2022
+
+Chạy 50 phút với tốc độ vừa phải, tăng tốc vào 10 phút cuối.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_26_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 26/10/2022" title="Tóm tắt kết quả chạy bộ ngày 26/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
