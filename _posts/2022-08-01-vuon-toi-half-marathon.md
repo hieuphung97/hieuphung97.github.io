@@ -836,3 +836,14 @@ Chạy 50 phút với tốc độ vừa phải, tăng tốc vào 10 phút cuối
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_26_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 26/10/2022" title="Tóm tắt kết quả chạy bộ ngày 26/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_27_10_2022"></a>Buổi tập ngày 27/10/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_27_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 27/10/2022" title="Tóm tắt kết quả chạy bộ ngày 27/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
