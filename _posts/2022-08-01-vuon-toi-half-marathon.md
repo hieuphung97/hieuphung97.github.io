@@ -847,3 +847,92 @@ Chạy 50 phút với tốc độ vừa phải.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_27_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 27/10/2022" title="Tóm tắt kết quả chạy bộ ngày 27/10/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_30_10_2022"></a>Buổi tập ngày 30/10/2022
+
+Lên xe từ 2h sáng phóng ra Long Biên để kịp giờ chạy, tôi có mặt ở Trung tâm Thể thao Quận Long Biên khi mặt trời còn chưa ló rạng.
+Hình ảnh đầu tiên đập vào mắt tôi chính là sự đông đúc của đoàn người kéo đến địa điểm tập trung, nằm cách vạch xuất phát tầm vài trăm mét.
+Kẻ đứng, người ngồi, kẻ xỏ giày, người khởi động,... thật là một bầu không khí náo nhiệt.
+
+Tôi đi dạo vài vòng để tìm kiếm những gương mặt thân quen.
+Không một ai hết, xunh quanh đều là những bóng hình xa lạ.
+Tạm dừng việc tìm kiếm, tôi đứng lại gần vị trí khu gửi đồ, bắt đầu khởi động.
+Vẫn là những bài khởi động hàng ngày mà tôi thực hiện trước mỗi bài tập, nhưng hôm nay, trong mỗi động tác lại có thêm một nhịp xoay đầu ngoái cổ, cốt để nhìn vào khuôn mặt và dáng đi của những người qua lại.
+Lấp ló gần đấy, trong một cái góc tối om, một dáng hình đầy đặn hiện ra trông thật quen thuộc.
+Tôi chạy đến gần, nhìn và cười tủm, "Chị Vân!"<br/>
+"Ơ Hiếu à, dáng nhìn thon thế."<br/>
+"Anh nhà chị đâu hả chị Vân?" tôi hỏi."<br/>
+"Đang đi gửi đồ rồi, em ra gửi đồ luôn đi kẻo tí nữa lại đông," câu nói cuối cùng tôi được nghe từ chị, trước lúc chị biến mất sau khi tôi quay trở về từ khu gửi đồ.<br/>
+
+Chui vào "chuồng (PEN xuất phát)" chuẩn bị để tiến ra khu vực xuất phát, tôi vẫn không ngừng tìm kiếm những người anh, người chị, người bạn của mình.
+Vẫn một mình tôi đơn độc ở trong một không gian chật ních.
+
+"Xuất phát!!!" hiệu lệnh của ban tổ chức được truyền đến tai chúng tôi.
+Tôi bắt đầu giải đấu với 10 phút chạy khởi động nhẹ nhàng.
+Hình ảnh về những chị phù thủy hay những anh hề trên đường chạy nhắc tôi nhớ rằng Halloween đã đến.
+Tôi tự hỏi, "Không biết mặc những bộ đồ đấy lên rồi chạy thì cảm giác sẽ như thế nào nhỉ? Hẳn là phải nóng và vướng víu lắm 😂 ."
+
+Cố gắng kiềm chế bản thân không bị cuốn theo dòng người tăng tốc, tôi chạy giữ sức trong 10 cây số đầu tiên với một tốc độ vừa phải.
+Chốc chốc, tôi lại xoay đầu ngoái cổ nhìn màu BIB của những vận động viên xung quanh để xem liệu mình có đi lạc vào làn của cự ly 42 hay không.
+Quá rảnh rỗi, tôi tiếp tục công cuộc tìm kiếm người quen bằng cặp mắt độn hai cái đít chai của mình.
+
+Chả gặp được một ai trong cả đoạn đường 10km đầu tiên, tôi ôm cua tại chỗ quay đầu, tiếp tục chạy trên chính con đường vừa nãy nhưng theo chiều ngược lại.
+Những cuộc gặp gỡ chỉ bắt đầu khi tôi bước sang ki-lô-mét số 11.
+Chị Vân gọi tôi khi hai chị em giao nhau trên con đường hai chiều.
+Đến ki-lô-mét thứ 15 hay 16 gì đó, một hình ảnh vừa lạ mà cũng thật quen đập thẳng vào mắt tôi, hình ảnh anh Bằng đang ngồi xổm lia ống kính chụp các vận động viên đang chạy về hướng đó.<br/>
+"Anh Bằng!"<br/>
+Tôi chỉ kịp gọi anh đúng một câu ngay trước khi chạy vọt qua anh và tí nữa thì ôm lấy một chân chạy nam ở trên đường chạy.<br/>
+“Mải tạo dáng quá tí thì ôm đấy nhá,” một chân chạy khác gần đấy trêu tôi.<br/>
+
+5km cuối của đường chạy, tôi bỗng thấy tức ngực, một cảm giác đau mà tôi chưa bao giờ gặp phải.
+Quá đau, mặt tôi méo xệch, hơi thở hổn hển, chủ động giảm tốc cho đôi chân để điều hòa lại nhịp thở.
+Những ki-lô-mét cuối với tôi thật là khó nhọc.
+
+Còn 500 mét tính từ chỗ tôi cho đến vạch đích, tôi đốt nốt chỗ năng lượng tiết kiệm được kể từ lúc xuất phát.
+Chạy như một thằng bị chó đuổi, tôi vượt qua tất cả các chân chạy phía trước tôi không chừa một ai.
+Hai bên đường, đám đông hò reo, tôi nghe thấy giọng của một bạn nữ tình nguyện viên hô to, “Áo cam cố lên...,” thực sự là tôi cũng không biết có phải là ám chỉ tôi không nữa bởi có nhiều áo cam quá, nhưng tôi có thể chắc chắn một điều là tôi không hề ngán bất cứ ai vào khoảnh khắc đấy.
+À thì thực ra có duy nhất một anh trai tôi không thể vượt qua được, lúc chạy đến nơi là anh đã gần chạm vạch đích trong tư thế của kẻ chiến thắng rồi nên tôi cũng đành chịu.
+
+Về đích, tôi tu liền hai lon Pocari Sweat mát lạnh.
+Giãn cơ, ngâm chân với nước đá cùng một vài hoạt động khác, tôi tiếp tục có những cuộc gặp gỡ đầy thú vị.
+Một chân chạy cự ly 21km đến từ Thái Nguyên chia sẻ, “Hôm nay anh chạy không được khỏe như mọi khi, chắc chỉ được 2 tiếng cộng 10 giây gì đó.”<br/>
+“Tối qua vừa làm một chầu bia, nay tim anh lên cao chót vót.”<br/>
+Hay một anh trai khác chạy cự ly 10km nhờ tôi chụp ảnh quanh khu vực check-in.
+Anh cảm ơn tôi bằng một cây kem vị xoài mát lạnh.
+
+Tôi gặp lại chị Vân, và gặp những người bạn của mình.
+Chúng tôi chụp ảnh để lưu giữ lại những kỷ niệm của ngày trọng đại này trước khi lấy xe ra về.
+
+Những vận động viên bị rơi rớt lại của cự ly Full Marathon vẫn đang mệt nhọc chạy về đích dưới cái nắng oi bức.
+Những con đường vẫn bị phân làn, dựng rào chắn, chăng dây chằng chịt.
+Không biết đi lối nào để về, chúng tôi bám theo luồng người di chuyển, làn xe rẽ hướng nào, chui vào đâu thì chúng tôi đi theo đấy.
+Thoát được những con đường đông đúc, tôi phóng thẳng một mạch về nhà nghỉ ngơi sau một ngày try-hard căng thẳng.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_30_10_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/10/2022" title="Tóm tắt kết quả chạy bộ ngày 30/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_30_10_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/10/2022" title="Tóm tắt kết quả chạy bộ ngày 30/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_30_10_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/10/2022" title="Tóm tắt kết quả chạy bộ ngày 30/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_30_10_2022_4.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/10/2022" title="Tóm tắt kết quả chạy bộ ngày 30/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_30_10_2022_5.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/10/2022" title="Tóm tắt kết quả chạy bộ ngày 30/10/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_30_10_2022_6.jpg" alt="Tóm tắt kết quả chạy bộ ngày 30/10/2022" title="Tóm tắt kết quả chạy bộ ngày 30/10/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
+
+---
+
+# <a id="run_01_11_2022"></a>Buổi tập ngày 01/11/2022
+
+Chạy 50 phút với tốc độ vừa phải.
+Dừng chạy từ phút 40 vì chân phải quá đau.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_01_11_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/11/2022" title="Tóm tắt kết quả chạy bộ ngày 01/11/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
