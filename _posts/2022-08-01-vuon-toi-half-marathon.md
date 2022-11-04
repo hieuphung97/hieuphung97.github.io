@@ -850,7 +850,7 @@ Chạy 50 phút với tốc độ vừa phải.
 
 ---
 
-# <a id="run_30_10_2022"></a>Buổi tập ngày 30/10/2022
+# <a id="run_30_10_2022"></a>Long Biên Marathon 2022
 
 Lên xe từ 2h sáng phóng ra Long Biên để kịp giờ chạy, tôi có mặt ở Trung tâm Thể thao Quận Long Biên khi mặt trời còn chưa ló rạng.
 Hình ảnh đầu tiên đập vào mắt tôi chính là sự đông đúc của đoàn người kéo đến địa điểm tập trung, nằm cách vạch xuất phát tầm vài trăm mét.
