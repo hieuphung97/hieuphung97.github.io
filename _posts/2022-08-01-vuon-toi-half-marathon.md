@@ -936,3 +936,20 @@ Dừng chạy từ phút 40 vì chân phải quá đau.
 <summary><i>Nhấn để mở rộng</i></summary>
     <center><img src="/img/running/run_01_11_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 01/11/2022" title="Tóm tắt kết quả chạy bộ ngày 01/11/2022" style="max-width: 95%; height: auto;"/></center>
 </details>
+
+---
+
+# <a id="run_06_11_2022"></a>UpRace Day Hà Nội 2022
+
+Một giải chạy ngắn vui vẻ cùng những người bạn.
+
+<details>
+<summary><i>Nhấn để mở rộng</i></summary>
+    <center><img src="/img/running/run_06_11_2022.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/11/2022" title="Tóm tắt kết quả chạy bộ ngày 06/11/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_06_11_2022_2.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/11/2022" title="Tóm tắt kết quả chạy bộ ngày 06/11/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_06_11_2022_3.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/11/2022" title="Tóm tắt kết quả chạy bộ ngày 06/11/2022" style="max-width: 95%; height: auto;"/></center>
+    <br/>
+    <center><img src="/img/running/run_06_11_2022_4.jpg" alt="Tóm tắt kết quả chạy bộ ngày 06/11/2022" title="Tóm tắt kết quả chạy bộ ngày 06/11/2022" style="max-width: 95%; height: auto;"/></center>
+</details>
